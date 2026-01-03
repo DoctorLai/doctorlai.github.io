@@ -11,10 +11,10 @@
 
 - **Version** 2025-Jan-03 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
 - **The Longer Version** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
-- **LinkedIn:** https://www.linkedin.com/in/doctorlai  
-- **GitHub:** https://github.com/DoctorLai  
-- **GitHub (Microsoft Research):** https://github.com/doctorlai-msrc  
-- **Microsoft Research Profile:** https://www.microsoft.com/en-us/research/people/zhihualai/  
+- **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
+- **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
+- **GitHub (Microsoft Research):** [https://github.com/doctorlai-msrc](https://github.com/doctorlai-msrc)
+- **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
 ---
 
@@ -26,7 +26,7 @@ working on **high-performance systems, cloud infrastructure, robotics AI and 5G/
 - Former **General Electric** Staff Software Engineer.
 working on Magik Compiler
 - **PhD in Computer Science**, published researcher (ACM MobiCom)
-- **Top-3 Witness  (Block Producer)** on the **Steem Blockchain** (https://steemyy.com).
+- **Top-3 Witness  (Block Producer)** on the **Steem Blockchain** ([https://steemyy.com](https://steemyy.com)).
 
 Proven record of delivering **low-latency, production-grade systems** across **C/C++, eBPF, distributed cloud platforms, and large-scale storage systems**.
 
@@ -57,7 +57,7 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 
 ### **Microsoft Research Cambridge — Senior Software Engineer**
 **Intelligent Network Systems (formerly Azure for Operators)**  
-https://www.microsoft.com/en-us/research/group/ins/
+[https://www.microsoft.com/en-us/research/group/ins/](https://www.microsoft.com/en-us/research/group/ins/)
 *July 2021 – Present*
 
 - Build **high-performance software** running on **5G base stations** using **C/C++, eBPF, and Linux**
@@ -75,12 +75,12 @@ https://www.microsoft.com/en-us/research/group/ins/
 **Publications (Selected)**
 
 - *Distributed AI Platform for the 6G RAN* — Open-AI RAN'25  
-  https://doi.org/10.48550/arXiv.2410.03747  
+  [https://doi.org/10.48550/arXiv.2410.03747](https://doi.org/10.48550/arXiv.2410.03747)
 - *Taking 5G RAN Analytics and Control to a New Level* — ACM MobiCom’23  
-  https://dl.acm.org/doi/10.1145/3570361.3592493  
+  [https://dl.acm.org/doi/10.1145/3570361.3592493](https://dl.acm.org/doi/10.1145/3570361.3592493)
 - *Programmable RAN Platform for Flexible Real-Time Control and Telemetry* —  
   ACM MobiCom’23 (**Best Demo Award Runner-Up**)  
-  https://dl.acm.org/doi/10.1145/3570361.3614065  
+  [https://dl.acm.org/doi/10.1145/3570361.3614065](https://dl.acm.org/doi/10.1145/3570361.3614065)
 
 ---
 
@@ -89,9 +89,9 @@ https://www.microsoft.com/en-us/research/group/ins/
 *January 2020 – July 2021*
 
 - **Day-1 engineer** on **Amazon S3 Object Lambda**  
-  https://aws.amazon.com/s3/features/object-lambda/  
+  [https://aws.amazon.com/s3/features/object-lambda/](https://aws.amazon.com/s3/features/object-lambda/)
 - Contributed to the **successful global launch**  
-  https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda/  
+  [https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda/](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda/)
 - Built internal tooling to **identify performance bottlenecks** in one of the world’s largest distributed storage systems.
 - Participated in **on-call rotation** for mission-critical AWS services e.g. S3 Object Lamda
 
@@ -104,7 +104,7 @@ https://www.microsoft.com/en-us/research/group/ins/
 *December 2018 – January 2020*
 
 - Core contributor to **Smallworld GIS platform**  
-  https://en.wikipedia.org/wiki/Magik_(programming_language)
+  [https://en.wikipedia.org/wiki/Magik_(programming_language)](https://en.wikipedia.org/wiki/Magik_(programming_language))
 - Designed and implemented **language-level features** in the Magik compiler
 
 **Key Contributions**
@@ -117,7 +117,7 @@ https://www.microsoft.com/en-us/research/group/ins/
 ### **Ranplan Wireless — Principal Algorithm Engineer**
 **Cambridgeshire, UK**
 *September 2010 – November 2018*  
-https://ranplanwireless.com/
+[https://ranplanwireless.com/](https://ranplanwireless.com/)
 
 - Lead developer of **radio wave propagation engine** (core IP, ~500K LOC)
 - Designed **ray-tracing and channel modeling algorithms** used in commercial tools
@@ -148,7 +148,7 @@ https://ranplanwireless.com/
 ## BLOCKCHAIN & OPEN SOURCE LEADERSHIP
 
 - **Top-3 Witness (Block Producer)** on the **Steem Blockchain**  
-  https://steemyy.com/witness-ranking/
+  [https://steemyy.com/witness-ranking/](https://steemyy.com/witness-ranking/)
 - Architect and operator of **Steem infrastructure, APIs, explorers, and services**
 - Maintainer of open-source blockchain tooling and load-balancing infrastructure
 
