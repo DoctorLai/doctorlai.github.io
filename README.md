@@ -1,8 +1,6 @@
 <style>
-.site-title,
-.site-header h1,
-header h1 {
-  display: none !important;
+.markdown-body > h1:first-of-type {
+  display: none;
 }
 </style>
 
