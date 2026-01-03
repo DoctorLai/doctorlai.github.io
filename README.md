@@ -1,3 +1,11 @@
+<style>
+.site-title,
+.site-header h1,
+header h1 {
+  display: none !important;
+}
+</style>
+
 # Zhihua Lai, PhD
 **Senior Software Engineer — Systems, Cloud & Networking**
 
