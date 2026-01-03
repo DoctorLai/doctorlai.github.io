@@ -66,11 +66,11 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 
 **Selected Open Source Contributions**
 
-- https://github.com/microsoft/jbpf  
-- https://github.com/microsoft/jrt-controller  
-- https://github.com/microsoft/jbpf-protobuf  
-- https://github.com/microsoft/exekias  
-- https://github.com/microsoft/jrtc-apps  
+- [https://github.com/microsoft/jbpf](https://github.com/microsoft/jbpf)
+- [https://github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller)
+- [https://github.com/microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf)
+- [https://github.com/microsoft/exekias](https://github.com/microsoft/exekias)
+- [https://github.com/microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps)
 
 **Publications (Selected)**
 
@@ -81,6 +81,9 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 - *Programmable RAN Platform for Flexible Real-Time Control and Telemetry* —  
   ACM MobiCom’23 (**Best Demo Award Runner-Up**)  
   [https://dl.acm.org/doi/10.1145/3570361.3614065](https://dl.acm.org/doi/10.1145/3570361.3614065)
+- Chapter 2 - *Radio Propagation Modelling*, in Book "Heterogeneous Cellular Networks: Theory, Simulation and Deployment", Cambridge University Press, 2012.
+- Chapter 5 - *Outdoor-Indoor Channel*, in Book "LTE-Advanced and Next Generation Wireless Networks: Channel Modelling and Propagation", John Wiley & Sons, November, 2012.
+- *Intelligent Ray Launching Algorithm for Indoor Scenarios* - Radioengineering, Towards EUCAP 2012
 
 ---
 
@@ -138,10 +141,9 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 
 ## PATENTS (SELECTED)
 
-- *Method for Predicting Outdoor 3D Signal Field Strength*  
-  PCT/GB2015/053224  
-- *Method for Predicting Indoor 3D Signal Field Strength*  
-  PCT/GB2015/053223  
+- *Method for Predicting Outdoor 3D Signal Field Strength*  PCT/GB2015/053224
+- *Method for Predicting Indoor 3D Signal Field Strength*  PCT/GB2015/053223
+- *Wifi Multi-Band Fingerprint-Based Indoor Positioning* WO/2018/167500
 
 ---
 
