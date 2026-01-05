@@ -166,4 +166,4 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 ## MISCELLANEOUS
 
 - Clean UK Driving License (13 yr+)
-- Teaching Kids Programming (Python, Data Structures and Algorithms) for [**700+ days**](https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A)]
+- Teaching Kids Programming (Python, Data Structures and Algorithms) for [**700+ days**](https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A)
