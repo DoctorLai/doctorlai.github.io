@@ -9,7 +9,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 2025-Jan-05 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
+- **Version** 2025-Jan-06 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
 - **The Longer Version** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
@@ -64,7 +64,7 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 - Support researchers in turning ideas **from prototype to production**
 - Contribute to **open-source research platforms** used by the global RAN community
 
-**Selected Open Source Contributions**
+**Selected Open Source Contributions** (username *[doctorlai-msrc](https://github.com/doctorlai-msrc)*)
 
 - [https://github.com/microsoft/jbpf](https://github.com/microsoft/jbpf)
 - [https://github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller)
@@ -81,6 +81,9 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 - *Programmable RAN Platform for Flexible Real-Time Control and Telemetry* —  
   ACM MobiCom’23 (**Best Demo Award Runner-Up**)  
   [https://dl.acm.org/doi/10.1145/3570361.3614065](https://dl.acm.org/doi/10.1145/3570361.3614065)
+
+***Previous Publications***
+
 - Chapter 2 - *Radio Propagation Modelling*, in Book "Heterogeneous Cellular Networks: Theory, Simulation and Deployment", Cambridge University Press, 2012.
 - Chapter 5 - *Outdoor-Indoor Channel*, in Book "LTE-Advanced and Next Generation Wireless Networks: Channel Modelling and Propagation", John Wiley & Sons, November, 2012.
 - *Intelligent Ray Launching Algorithm for Indoor Scenarios* - Radioengineering, Towards EUCAP 2012
