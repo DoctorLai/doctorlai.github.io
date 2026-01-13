@@ -9,7 +9,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 2025-Jan-06 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
+- **Version** 2025-Jan-13 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
 - **The Longer Version** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
@@ -32,12 +32,13 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 
 ---
 
-## Certifications
+## Microsoft Certified
 
-| Code  | Name                                   | Certification Number | Earned-on Date    |
-|-------|----------------------------------------|----------------------|-------------------|
-| AI-900 | Microsoft Azure AI Fundamentals        | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025 |
-| DP-900 | Microsoft Azure Data Fundamentals      | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025 |
+| Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
+|--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| AI-900 | AI       | Azure AI Fundamentals                                    | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025 |
+| DP-900 | Data     | Azure Data Fundamentals                                  | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025 |
+| SC-900 | Security | Security, Compliance, and Identity Fundamentals           | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | January 13, 2026 |
 
 ---
 
