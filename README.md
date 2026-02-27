@@ -10,7 +10,7 @@
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
 - **Version** 2025-Feb-27 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
-- **The Longer Version** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
+- **The Longer Version** [https://doctorlai.github.io/full](https://doctorlai.github.io/full)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
 - **GitHub (Microsoft Research):** [https://github.com/doctorlai-msrc](https://github.com/doctorlai-msrc)
