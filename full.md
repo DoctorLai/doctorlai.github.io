@@ -1,3 +1,9 @@
+<style>
+.markdown-body > h1:first-of-type {
+  display: none;
+}
+</style>
+
 Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
