@@ -9,7 +9,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 2025-Feb-27 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
+- **Version** 2025-Feb-28 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
 - **The Longer Version** [https://doctorlai.github.io/full](https://doctorlai.github.io/full)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
@@ -68,6 +68,8 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 - Build **high-performance software** running on **5G base stations** using **C/C++, eBPF, and Linux**
 - Support researchers in turning ideas **from prototype to production**
 - Contribute to **open-source research platforms** used by the global RAN community
+
+As an engineer in the Research Organization, I help researchers rapidly prototype ideas from 0 to 1. I’ve contributed across a broad technical spectrum — from low-level systems programming (eBPF in C) and performance-critical C++ components to application development in C#, Android (Java/Kotlin), and robotics (ROS2). I’m also actively involved in Embedded Rust projects, including development on ESP32.
 
 **Selected Open Source Contributions** (username *[doctorlai-msrc](https://github.com/doctorlai-msrc)*)
 
