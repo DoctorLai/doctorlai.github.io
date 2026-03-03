@@ -52,7 +52,6 @@
 其它成就
 ----------------------------------------
 * 我博士期间研发的传播模型IRLA在书 "Femtocells - Technologies and Deployment", John Wiley & Sons, 328 pages里被引用, Jan. 2010, ISBN: 978-0-470-74298-3. 
-* 我能写出更优化的算法（代码）。我也经常刷题，比如ACM-Timus第1532题，我的代码至今排第二。要求是4秒用时而我的方案只需要0.312秒。[http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100](http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100)
 * 区块链:
      * 我在STEEM区块链上开了第一家银行。股东们通过代理STEEM POWER给 [\@justyy](https://steemd.com/@justyy) 就能获得年利率8%到10%的利息（每日发放），同时我的机器人24/7将对股东的文章进行相应比例的点赞。
      * 我是STEEM区块链上第7代理人数多的帐号，当前有300多次代理。 [https://steemyy.com/list-of-top-delegations-by-count/](https://steemyy.com/list-of-top-delegations-by-count/)
