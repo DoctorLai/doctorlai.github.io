@@ -207,8 +207,7 @@ Selected Publications
 Worth mentioning 
 ---------------------
 * Ranked Top 30 iPinyou Global RTB Bidding Algorithm Contest (season two offline, 2013)
-* My propagation model 'IRLA' has been cited in the book "Femtocells - Technologies and Deployment", John Wiley & Sons, ISBN: 978-0-470-74298-3. 
-* I write highly-optimized code (which uses less memory and executes faster). For example, for Problem 1532 on ACM Timus Online Judge, my submission ranks the second. The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds. [http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100](http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100)
+* My propagation model 'IRLA' has been cited in the book "Femtocells - Technologies and Deployment", John Wiley & Sons, ISBN: 978-0-470-74298-3.
 * I run a delegated service on steem blockchain [\@justyy](https://steemd.com/@justyy) where Steemians delegate their Steem Power to me and my bots send out the Steem Dollars (tokens) at a rate of 8% to 10%. Also my bots are up running 24/7 to vote the quality posts of the delegatees. 
 * I am currently the top 3 witness on the STEEM Blockchain. A witness is a [block producer](https://steemyy.com/witness-ranking/).
 * I am currently the 3-rd most delegated account on the STEEM Blockchain e.g. 300+ delegations according to [https://steemyy.com/top-delegations-by-count/](https://steemyy.com/top-delegations-by-count/)
