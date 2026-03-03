@@ -230,7 +230,6 @@ Miscellaneous
 -------------------
 * 2019-11 to 2019-12: I taught the course *Microbit Programming* at weekends in Chesterton Community Colleage (organised by Chinese Family Together and Hacklab Cambridge) to kids (8 yrs+). 
 * I teach my sons programming (and math) videos (700 days+): [https://zhihua-lai.com/teaching/](https://zhihua-lai.com/teaching/)
-* Personal Page: [https://zhihua-lai.com](https://zhihua-lai.com) 
 * Keep learning:
     * My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
     * [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
