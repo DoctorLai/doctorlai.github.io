@@ -23,6 +23,8 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
+| AZ-104 | 云计算      | Azure管理副认证（Azure Administrator Associate）                          | [CBE3B7-4911PC](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f) | 2026年3月13日 |
+| AB-731 | 人工智能, 商业       | 人工智能转型领导者（AI Transformation Leader）                            | [BNBA25-32A1F8](https://learn.microsoft.com/en-us/users/zhihualai/credentials/68AEE089F7B64A49) | 2026年3月13日 |
 | AZ-204 | 云计算 | Azure 开发者副认证（Azure Developer Associate） | [T6D896-FDCEDF](https://learn.microsoft.com/en-us/users/zhihualai/credentials/7f88b726d3e912c3) | 2026年2月27日 |
 | AB-730 | 人工智能、商业 | AI 商业专业人士（AI Business Professional） | [BA3490-GD0796](https://learn.microsoft.com/en-us/users/zhihualai/credentials/db719c96a757c69b) | 2026年2月27日 |
 | AI-102 | 人工智能 | Azure AI 工程师副认证（Azure AI Engineer Associate） | [25A6FZ-E1AF43](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0) | 2026年2月20日 |
