@@ -23,15 +23,16 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
-| AZ-104 | 云计算      | Azure管理副认证（Azure Administrator Associate）                          | [CBE3B7-4911PC](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f) | 2026年3月13日 |
-| AB-731 | 人工智能, 商业       | 人工智能转型领导者（AI Transformation Leader）                            | [BNBA25-32A1F8](https://learn.microsoft.com/en-us/users/zhihualai/credentials/68AEE089F7B64A49) | 2026年3月13日 |
-| AZ-204 | 云计算 | Azure 开发者副认证（Azure Developer Associate） | [T6D896-FDCEDF](https://learn.microsoft.com/en-us/users/zhihualai/credentials/7f88b726d3e912c3) | 2026年2月27日 |
-| AB-730 | 人工智能、商业 | AI 商业专业人士（AI Business Professional） | [BA3490-GD0796](https://learn.microsoft.com/en-us/users/zhihualai/credentials/db719c96a757c69b) | 2026年2月27日 |
-| AI-102 | 人工智能 | Azure AI 工程师副认证（Azure AI Engineer Associate） | [25A6FZ-E1AF43](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0) | 2026年2月20日 |
-| AZ-900 | 云计算 | Azure 基础认证（Azure Fundamentals） | [B6FAD6-2S7125](https://learn.microsoft.com/en-us/users/zhihualai/credentials/f4fee9b0f71d4223) | 2026年1月16日 |
-| SC-900 | 安全 | 安全、合规与身份基础认证（Security, Compliance, and Identity Fundamentals） | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | 2026年1月13日 |
-| AI-900 | 人工智能 | Azure AI 基础认证（Azure AI Fundamentals） | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | 2025年12月19日 |
-| DP-900 | 数据 | Azure 数据基础认证（Azure Data Fundamentals） | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | 2025年12月19日 |
+| AZ-305 | 云计算      | Azure解决方案架构专家 (Azure Solutions Architect Expert）                          | [E45B62-19NE7E](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc) | 2026年3月27日 |
+| AZ-104 | 云计算      | Azure管理副认证 (Azure Administrator Associate）                          | [CBE3B7-4911PC](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f) | 2026年3月13日 |
+| AB-731 | 人工智能, 商业       | 人工智能转型领导者 (AI Transformation Leader）                            | [BNBA25-32A1F8](https://learn.microsoft.com/en-us/users/zhihualai/credentials/68AEE089F7B64A49) | 2026年3月13日 |
+| AZ-204 | 云计算 | Azure 开发者副认证 (Azure Developer Associate） | [T6D896-FDCEDF](https://learn.microsoft.com/en-us/users/zhihualai/credentials/7f88b726d3e912c3) | 2026年2月27日 |
+| AB-730 | 人工智能、商业 | AI 商业专业人士 (AI Business Professional） | [BA3490-GD0796](https://learn.microsoft.com/en-us/users/zhihualai/credentials/db719c96a757c69b) | 2026年2月27日 |
+| AI-102 | 人工智能 | Azure AI 工程师副认证 (Azure AI Engineer Associate） | [25A6FZ-E1AF43](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0) | 2026年2月20日 |
+| AZ-900 | 云计算 | Azure 基础认证 (Azure Fundamentals） | [B6FAD6-2S7125](https://learn.microsoft.com/en-us/users/zhihualai/credentials/f4fee9b0f71d4223) | 2026年1月16日 |
+| SC-900 | 安全 | 安全、合规与身份基础认证 (Security, Compliance, and Identity Fundamentals） | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | 2026年1月13日 |
+| AI-900 | 人工智能 | Azure AI 基础认证 (Azure AI Fundamentals） | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | 2025年12月19日 |
+| DP-900 | 数据 | Azure 数据基础认证 (Azure Data Fundamentals） | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | 2025年12月19日 |
 
 
 开源
