@@ -16,7 +16,7 @@ Zhihua Lai (PhD)
 - Github: [https://github.com/doctorlai](https://github.com/doctorlai)
 - Github Microsoft: [https://github.com/doctorlai-msrc](https://github.com/doctorlai-msrc)
 
-I am currently a Senior Software Engineering in Intelligent Network System, previously known as [AFO (Azure For Operators)](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/) in the [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) where I contribute and build high performance software (C, C++, eBPF) that run on 5G Base Stations.
+I am currently a Senior Software Engineer in [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) where I contribute and build high performance software (C, C++, eBPF) that run on 5G Base Stations.
 
 During the employment with Amazon, I have contributed to development of several large scale distributed applications in the domain of AWS (Amazon Web Services) e.g. [S3 Simple Secure Storage](https://aws.amazon.com/s3/). I have worked from Day 1 at [S3 Object Lambda](https://aws.amazon.com/s3/features/object-lambda/) and witnessed the [successful launch](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/) of it (Mar-18-2021).
 
