@@ -34,6 +34,13 @@
 | AI-900 | 人工智能 | Azure AI 基础认证 (Azure AI Fundamentals） | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | 2025年12月19日 |
 | DP-900 | 数据 | Azure 数据基础认证 (Azure Data Fundamentals） | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | 2025年12月19日 |
 
+Google云认证
+--------------------
+
+| 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
+|----------|------|----------|----------|-----------|
+| PR000309 | 人工智能      | Generative Al Leader                          | [03429e7450ad4c33926ed613d65793e8](https://www.credly.com/badges/501acfa5-9745-4f0f-bdbb-b0021a9322c0) | 2026年3月27日 |
+
 
 开源
 --------------------
