@@ -49,6 +49,14 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 
 ---
 
+## Google Cloud Certified
+
+| Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
+|--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| PR000309 | AI      | Generative Al Leader                          | [03429e7450ad4c33926ed613d65793e8](https://www.credly.com/badges/501acfa5-9745-4f0f-bdbb-b0021a9322c0) | March 27, 2026 |
+
+---
+
 ## CORE SKILLS
 
 - **Systems & Networking:** C, C++, eBPF, Linux, O-RAN, 4G/5G, RAN, low-latency systems  
