@@ -57,7 +57,7 @@ Job Experience
 2021/07 to Present: [Intelligent Network System](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/)
 
 * **Full Stack**: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS/K8S, Azure Functions, Service Bus, CI/Pipeline ...), Python, Go, C#, NodeJS, Rust, Android, WASM etc.
-* **Role**: As an engineer in the Research Organization, I help researchers rapidly prototype ideas from 0 to 1. I’ve contributed across a broad technical spectrum — from low-level systems programming (eBPF in C) and performance-critical C++ components to application development in C#, Android (Java/Kotlin), and robotics (ROS2). I’m also actively involved in Embedded Rust projects, including development on ESP32.
+* **Role**: As an engineer in the Research Organization, I help researchers rapidly prototype ideas from 0 to 1. I’ve contributed across a broad technical spectrum — from low-level systems programming (eBPF in C) and performance-critical C++ components to application development in C#, Android (Java/Kotlin), and robotics (ROS2). I was also involved in Embedded Rust projects, including development on ESP32.
 * **Open Source**:
   * [github.com/microsoft/jbpf](https://github.com/microsoft/jbpf) - [My Pull Requests & Issues](https://github.com/microsoft/jbpf/issues?q=author%3Adoctorlai-msrc)
   * [github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller) - [My Pull Requests & Issues](https://github.com/microsoft/jrt-controller/issues?q=author%3Adoctorlai-msrc)
