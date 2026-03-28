@@ -80,7 +80,7 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 - Support researchers in turning ideas **from prototype to production**
 - Contribute to **open-source research platforms** used by the global RAN community
 
-As an engineer in the Research Organization, I help researchers rapidly prototype ideas from 0 to 1. I’ve contributed across a broad technical spectrum — from low-level systems programming (eBPF in C) and performance-critical C++ components to application development in C#, Android (Java/Kotlin), and robotics (ROS2). I’m also actively involved in Embedded Rust projects, including development on ESP32.
+As an engineer in the Research Organization, I help researchers rapidly prototype ideas from 0 to 1. I’ve contributed across a broad technical spectrum — from low-level systems programming (eBPF in C) and performance-critical C++ components to application development in C#, Android (Java/Kotlin), and robotics (ROS2). I was also involved in Embedded Rust projects, including development on ESP32.
 
 **Selected Open Source Contributions** (username *[doctorlai-msrc](https://github.com/doctorlai-msrc)*)
 
