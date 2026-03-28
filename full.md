@@ -8,7 +8,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 27-MAR-2026
+- **Version** 28-MAR-2026
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -43,6 +43,13 @@ Microsoft Certified
 | SC-900 | Security     | Security, Compliance, and Identity Fundamentals | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | January 13, 2026 |
 | AI-900 | AI           | Azure AI Fundamentals            | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025 |
 | DP-900 | Data         | Azure Data Fundamentals          | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025 |
+
+Google Cloud Certified
+--------------
+
+| Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
+|--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| PR000309 | AI      | Generative Al Leader                          | [03429e7450ad4c33926ed613d65793e8](https://www.credly.com/badges/501acfa5-9745-4f0f-bdbb-b0021a9322c0) | March 27, 2026 |
 
 Job Experience
 --------------
