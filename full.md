@@ -8,7 +8,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 28-MAR-2026
+- **Version** 30-MAR-2026
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -33,6 +33,7 @@ Microsoft Certified
 
 | Code   | Domain       | Name                            | Certification Number | Earned-on Date     |
 |--------|--------------|----------------------------------|----------------------|--------------------|
+| GH-900 | Git      | Github Foundation                          | [7C1674-5CE607](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ebb5c097da38dbc6) | March 30, 2026 |
 | AZ-305 | Cloud      | Azure Solutions Architect Expert                          | [E45B62-19NE7E](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc) | March 27, 2026 |
 | AZ-104 | Cloud      | Azure Administrator Associate                          | [CBE3B7-4911PC](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f) | March 13, 2026 |
 | AB-731 | AI, Business       | AI Transformation Leader                            | [BNBA25-32A1F8](https://learn.microsoft.com/en-us/users/zhihualai/credentials/68AEE089F7B64A49) | March 13, 2026 |
