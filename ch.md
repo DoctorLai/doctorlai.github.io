@@ -23,6 +23,7 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
+| GH-900 | Git      | Github Foundation                          | [7C1674-5CE607](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ebb5c097da38dbc6) | 2026年3月30日 |
 | AZ-305 | 云计算      | Azure解决方案架构专家 (Azure Solutions Architect Expert）                          | [E45B62-19NE7E](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc) | 2026年3月27日 |
 | AZ-104 | 云计算      | Azure管理副认证 (Azure Administrator Associate）                          | [CBE3B7-4911PC](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f) | 2026年3月13日 |
 | AB-731 | 人工智能, 商业       | 人工智能转型领导者 (AI Transformation Leader）                            | [BNBA25-32A1F8](https://learn.microsoft.com/en-us/users/zhihualai/credentials/68AEE089F7B64A49) | 2026年3月13日 |
