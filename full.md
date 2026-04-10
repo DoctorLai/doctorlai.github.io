@@ -8,7 +8,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 30-MAR-2026
+- **Version** 10-APR-2026
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -33,6 +33,7 @@ Microsoft Certified
 
 | Code   | Domain       | Name                            | Certification Number | Earned-on Date     |
 |--------|--------------|----------------------------------|----------------------|--------------------|
+| AZ-700 | Network      | Azure Network Engineer Associate                         | [53E66B-4XA079](https://learn.microsoft.com/en-us/users/zhihualai/credentials/75eeb643b0d98a99) | April 10, 2026 |
 | GH-200 | Git      | Github Action                          | [11F89A-3CC7A3](https://learn.microsoft.com/en-us/users/zhihualai/credentials/10d70f27fd78d5b6) | April 6, 2026 |
 | GH-900 | Git      | Github Foundation                          | [7C1674-5CE607](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ebb5c097da38dbc6) | March 30, 2026 |
 | AZ-305 | Cloud      | Azure Solutions Architect Expert                          | [E45B62-19NE7E](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc) | March 27, 2026 |
