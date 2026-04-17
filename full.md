@@ -8,7 +8,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 10-APR-2026
+- **Version** 17-APR-2026
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -33,7 +33,7 @@ Microsoft Certified
 
 | Code   | Domain       | Name                            | Certification Number | Earned-on Date     |
 |--------|--------------|----------------------------------|----------------------|--------------------|
-| AZ-400 | DevOps      | Azure Network Engineer Associate                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | April 17, 2026 |
+| AZ-400 | DevOps      | Azure DevOps Engineer Expert                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | April 17, 2026 |
 | GH-300 | Git      | Github Copilot                          | [DCJD08-DF0F44](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a7fd499d22b98aed) | April 17, 2026 |
 | AZ-700 | Network      | Azure Network Engineer Associate                         | [53E66B-4XA079](https://learn.microsoft.com/en-us/users/zhihualai/credentials/75eeb643b0d98a99) | April 10, 2026 |
 | GH-200 | Git      | Github Action                          | [11F89A-3CC7A3](https://learn.microsoft.com/en-us/users/zhihualai/credentials/10d70f27fd78d5b6) | April 6, 2026 |
