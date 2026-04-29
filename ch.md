@@ -23,6 +23,7 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
+| GH-100 | Git      | Github Administration                          | [BF44B3-48M622](https://learn.microsoft.com/en-us/users/zhihualai/credentials/413a714cbacaa2b2) | 2026年4月29日 |
 | AZ-400 | 开发/运维      | **Azure运维工程师专家 (Azure DevOps Engineer Expert)**                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | 2026年4月17日 |
 | GH-300 | Git      | Github Copilot                          | [DCJD08-DF0F44](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a7fd499d22b98aed) | 2026年4月17日 |
 | AZ-700 | 网络      | **Azure网络工程师副认证 (Azure Network Engineer Associate)**                         | [53E66B-4XA079](https://learn.microsoft.com/en-us/users/zhihualai/credentials/75eeb643b0d98a99) | 2026年4月10日 |
