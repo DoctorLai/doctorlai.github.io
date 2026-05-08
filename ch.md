@@ -25,7 +25,7 @@
 |----------|------|----------|----------|-----------|
 | SC-100 | Security      | **网络安全架构专家 (Cybersecurity Architect Expert)**                          | [7EE065-8C3CBW](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304) | 2026年5月8日 |
 | SC-300 | Security      | **Identity and Access Administrator Associate**                          | [580B52-T0A5BD](https://learn.microsoft.com/en-us/users/zhihualai/credentials/bde9e682aaa316bc) | 2026年5月8日 |
-| GH-500 | Git      | **Github Advanced Security**                          | Pending | 2026年5月8日 |
+| GH-500 | Git      | **Github Advanced Security**                          | [50295R-7F754](https://learn.microsoft.com/en-us/users/zhihualai/credentials/d69bc092596eb053) | 2026年5月8日 |
 | AI-901 | AI      | Azure AI Fundamentals (Beta)                        | Pending | 2026年5月1日 |
 | GH-100 | Git      | Github Administration                          | [BF44B3-48M622](https://learn.microsoft.com/en-us/users/zhihualai/credentials/413a714cbacaa2b2) | 2026年4月29日 |
 | AZ-400 | 开发/运维      | **Azure运维工程师专家 (Azure DevOps Engineer Expert)**                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | 2026年4月17日 |
