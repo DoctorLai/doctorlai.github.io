@@ -9,7 +9,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 29-APR-2026 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
+- **Version** 8-MAY-2026 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
 - **The Longer Version** [https://doctorlai.github.io/full](https://doctorlai.github.io/full)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
@@ -36,7 +36,11 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
-| GH-100 | Git      | Github Administration                          | [BF44B3-48M622](https://learn.microsoft.com/en-us/users/zhihualai/credentials/413a714cbacaa2b2) | April 29, 2026 |
+| SC-100 | Security      | **Cybersecurity Architect Expert**                          | [7EE065-8C3CBW](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304) | May 8, 2026 |
+| SC-300 | Security      | **Identity and Access Administrator Associate**                          | [580B52-T0A5BD](https://learn.microsoft.com/en-us/users/zhihualai/credentials/bde9e682aaa316bc) | May 8, 2026 |
+| GH-500 | Git      | **Github Advanced Security**                          | Pending | May 8, 2026 |
+| AI-901 | AI      | Azure AI Fundamentals (Beta)                        | Pending | May 1, 2026 |
+| GH-100 | Git      | **Github Administration**                          | [BF44B3-48M622](https://learn.microsoft.com/en-us/users/zhihualai/credentials/413a714cbacaa2b2) | April 29, 2026 |
 | AZ-400 | DevOps      | **Azure DevOps Engineer Expert**                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | April 17, 2026 |
 | GH-300 | Git      | Github Copilot                          | [DCJD08-DF0F44](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a7fd499d22b98aed) | April 17, 2026 |
 | AZ-700 | Network      | **Azure Network Engineer Associate**                         | [53E66B-4XA079](https://learn.microsoft.com/en-us/users/zhihualai/credentials/75eeb643b0d98a99) | April 10, 2026 |
