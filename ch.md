@@ -23,7 +23,7 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
-| AZ-500 | 安全      | **Azure安全工程师副谁证 (Azure Security Engineer Associate)**                          | [6318AC-1F9DEE](https://learn.microsoft.com/en-us/users/zhihualai/credentials/5d04bd884696ada4) | 2026年5月22日 |
+| AZ-500 | 安全      | **Azure安全工程师副认证 (Azure Security Engineer Associate)**                          | [6318AC-1F9DEE](https://learn.microsoft.com/en-us/users/zhihualai/credentials/5d04bd884696ada4) | 2026年5月22日 |
 | SC-100 | 安全      | **网络安全架构专家 (Cybersecurity Architect Expert)**                          | [7EE065-8C3CBW](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304) | 2026年5月8日 |
 | SC-300 | 安全      | **Identity and Access Administrator Associate**                          | [580B52-T0A5BD](https://learn.microsoft.com/en-us/users/zhihualai/credentials/bde9e682aaa316bc) | 2026年5月8日 |
 | GH-500 | Git      | **Github Advanced Security**                          | [50295R-7F754](https://learn.microsoft.com/en-us/users/zhihualai/credentials/d69bc092596eb053) | 2026年5月8日 |
