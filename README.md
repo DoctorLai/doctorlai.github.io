@@ -9,7 +9,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 1-June-2026 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
+- **Version** 2-June-2026 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
 - **The Longer Version** [https://doctorlai.github.io/full](https://doctorlai.github.io/full)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
@@ -20,7 +20,7 @@
 
 ## PROFESSIONAL SUMMARY
 - Senior Software Engineer at **Microsoft Research Cambridge**  
-working on **high-performance systems, cloud infrastructure, robotics AI and 5G/6G networking**.
+working on **AI Tooling, high-performance systems, cloud infrastructure, robotics AI and 5G/6G networking**.
 - Former **Amazon AWS** engineer
 (Day-1 contributor to **Amazon S3 Object Lambda**) 
 - Former **General Electric** Staff Software Engineer.
@@ -88,6 +88,7 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 [https://www.microsoft.com/en-us/research/group/ins/](https://www.microsoft.com/en-us/research/group/ins/)
 *July 2021 – Present*
 
+- Contribute to AI Tooling for the researchers in MSR
 - Build **high-performance software** running on **5G base stations** using **C/C++, eBPF, and Linux**
 - Support researchers in turning ideas **from prototype to production**
 - Contribute to **open-source research platforms** used by the global RAN community
