@@ -8,7 +8,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 2-June-2026
+- **Version** 4-June-2026
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -16,7 +16,7 @@ Zhihua Lai (PhD)
 - Github: [https://github.com/doctorlai](https://github.com/doctorlai)
 - Github Microsoft: [https://github.com/doctorlai-msrc](https://github.com/doctorlai-msrc)
 
-I am currently a Senior Software Engineer in [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). As an engineer in the Research Organization, I help researchers rapidly prototype ideas from 0 to 1. I’ve contributed across a broad technical spectrum, from low-level systems programming (eBPF in C) and performance-critical C++ components to app development in C#, Android (Java/Kotlin), robotics (ROS2), & Embedded Rust, e.g. ESP32. Recently I have been working on the AI tooling for the researchers in MSR.
+I am currently a Senior Software Engineer in [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). As an engineer in the Research Organization, I help researchers rapidly prototype ideas from 0 to 1. I’ve contributed across a broad technical spectrum, from low-level systems programming (eBPF in C) and performance-critical C++ components to app development in C#, Android (Java/Kotlin), robotics (ROS2), & Embedded Rust, e.g. ESP32. **Recently I have been working on the AI tooling for the researchers in MSR**.
 
 During the employment with Amazon, I have contributed to development of several large scale distributed applications in the domain of AWS (Amazon Web Services) e.g. [S3 Simple Secure Storage](https://aws.amazon.com/s3/). I have worked from Day 1 at [S3 Object Lambda](https://aws.amazon.com/s3/features/object-lambda/) and witnessed the [successful launch](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/) of it (Mar-18-2021).
 
