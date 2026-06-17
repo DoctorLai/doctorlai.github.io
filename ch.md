@@ -23,6 +23,7 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
+| PL-300 | PowerBI      | **Power BI 数据分析师副认证**                          | [6C25D7-M05B60](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8007abf0a3707ebf) | 2026年6月17日 |
 | PL-900 | Power Platforms      | Power Platform 基础认证                          | [69AAEZ-FD6360](https://learn.microsoft.com/en-us/users/zhihualai/credentials/4b24781aba15338) | 2026年6月1日 |
 | AZ-500 | 安全      | **Azure安全工程师副认证 (Azure Security Engineer Associate)**                          | [6318AC-1F9DEE](https://learn.microsoft.com/en-us/users/zhihualai/credentials/5d04bd884696ada4) | 2026年5月22日 |
 | SC-100 | 安全      | **网络安全架构专家 (Cybersecurity Architect Expert)**                          | [7EE065-8C3CBW](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304) | 2026年5月8日 |
