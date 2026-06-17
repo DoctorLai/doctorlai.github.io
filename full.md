@@ -8,7 +8,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 4-June-2026
+- **Version** 17-June-2026
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -33,6 +33,7 @@ Microsoft Certified
 
 | Code   | Domain       | Name                            | Certification Number | Earned-on Date     |
 |--------|--------------|----------------------------------|----------------------|--------------------|
+| PL-300 | PowerBI      | **Power BI Data Analyst Associate**                          | [6C25D7-M05B60](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8007abf0a3707ebf) | June 17, 2026 |
 | PL-900 | Power Platforms      | Power Platform Fundamentals                          | [69AAEZ-FD6360](https://learn.microsoft.com/en-us/users/zhihualai/credentials/4b24781aba15338) | June 1, 2026 |
 | AZ-500 | Security      | **Azure Security Engineer Associate**                          | [6318AC-1F9DEE](https://learn.microsoft.com/en-us/users/zhihualai/credentials/5d04bd884696ada4) | May 22, 2026 |
 | SC-100 | Security      | **Cybersecurity Architect Expert**                          | [7EE065-8C3CBW](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304) | May 8, 2026 |
