@@ -23,6 +23,7 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
+| AB-900 | 人工智能      | Copilot and Agent 管理基础认证 (Copilot and Agent Administration Fundamentals)                         | [J7FEF2-AB3155](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8471a8f807a3939d) | 2026年6月26日 |
 | PL-300 | PowerBI      | **Power BI 数据分析师副认证**                          | [6C25D7-M05B60](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8007abf0a3707ebf) | 2026年6月17日 |
 | PL-900 | Power Platforms      | Power Platform 基础认证                          | [69AAEZ-FD6360](https://learn.microsoft.com/en-us/users/zhihualai/credentials/4b24781aba15338) | 2026年6月1日 |
 | AZ-500 | 安全      | **Azure安全工程师副认证 (Azure Security Engineer Associate)**                          | [6318AC-1F9DEE](https://learn.microsoft.com/en-us/users/zhihualai/credentials/5d04bd884696ada4) | 2026年5月22日 |
