@@ -8,7 +8,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 26-June-2026
+- **Version** 10-July-2026
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -33,6 +33,7 @@ Microsoft Certified
 
 | Code   | Domain       | Name                            | Certification Number | Earned-on Date     |
 |--------|--------------|----------------------------------|----------------------|--------------------|
+| AB-100 | AI      | **Agentic AI Business Solutions Architect**                          | [5B690B-6FA8K5](https://learn.microsoft.com/en-us/users/zhihualai/credentials/54ea77333c601c1f) | July 10, 2026 |
 | AB-900 | AI      | Copilot and Agent Administration Fundamentals                          | [J7FEF2-AB3155](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8471a8f807a3939d) | June 26, 2026 |
 | PL-300 | PowerBI      | **Power BI Data Analyst Associate**                          | [6C25D7-M05B60](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8007abf0a3707ebf) | June 17, 2026 |
 | PL-900 | Power Platforms      | Power Platform Fundamentals                          | [69AAEZ-FD6360](https://learn.microsoft.com/en-us/users/zhihualai/credentials/4b24781aba15338) | June 1, 2026 |
