@@ -9,7 +9,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 27-July-2026 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
+- **Version** 12-August-2026 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
 - **The Longer Version** [https://doctorlai.github.io/full](https://doctorlai.github.io/full)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
@@ -36,6 +36,7 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| AI-103 | AI      | **Azure AI Apps and Agents Developer Associate**                          | [015F1C-9CDD4B](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8ea8289f33cb583e) | Aug 12, 2026 |
 | GH-600 | AI      | **Agentic AI Developer**                          | [15VA56-8E60AA](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ab15b09480d02a35) | July 27, 2026 |
 | AB-100 | AI      | **Agentic AI Business Solutions Architect**                          | [5B690B-6FA8K5](https://learn.microsoft.com/en-us/users/zhihualai/credentials/54ea77333c601c1f) | July 10, 2026 |
 | AB-900 | AI      | Copilot and Agent Administration Fundamentals                          | [J7FEF2-AB3155](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8471a8f807a3939d) | June 26, 2026 |
