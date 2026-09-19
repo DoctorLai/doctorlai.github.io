@@ -33,7 +33,7 @@
 | SC-100 | 安全      | **网络安全架构专家 (Cybersecurity Architect Expert)**                          | [7EE065-8C3CBW](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304) | 2026年5月8日 |
 | SC-300 | 安全      | **Identity and Access Administrator Associate**                          | [580B52-T0A5BD](https://learn.microsoft.com/en-us/users/zhihualai/credentials/bde9e682aaa316bc) | 2026年5月8日 |
 | GH-500 | Git      | **Github Advanced Security**                          | [50295R-7F754](https://learn.microsoft.com/en-us/users/zhihualai/credentials/d69bc092596eb053) | 2026年5月8日 |
-| AI-901 | AI      | Azure AI Fundamentals (Beta)                        | Pending | 2026年5月1日 |
+| AI-901 | AI      | Azure AI Fundamentals                        | 考过了和AI-900一样的证 | 2026年5月1日 |
 | GH-100 | Git      | Github Administration                          | [BF44B3-48M622](https://learn.microsoft.com/en-us/users/zhihualai/credentials/413a714cbacaa2b2) | 2026年4月29日 |
 | AZ-400 | 开发/运维      | **Azure运维工程师专家 (Azure DevOps Engineer Expert)**                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | 2026年4月17日 |
 | GH-300 | Git      | Github Copilot                          | [DCJD08-DF0F44](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a7fd499d22b98aed) | 2026年4月17日 |
@@ -48,8 +48,8 @@
 | AI-102 | 人工智能 | **Azure AI 工程师副认证 (Azure AI Engineer Associate)** | [25A6FZ-E1AF43](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0) | 2026年2月20日 |
 | AZ-900 | 云计算 | Azure 基础认证 (Azure Fundamentals) | [B6FAD6-2S7125](https://learn.microsoft.com/en-us/users/zhihualai/credentials/f4fee9b0f71d4223) | 2026年1月16日 |
 | SC-900 | 安全 | 安全、合规与身份基础认证 (Security, Compliance, and Identity Fundamentals) | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | 2026年1月13日 |
-| AI-900 | 人工智能 | Azure AI 基础认证 (Azure AI Fundamentals) | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | 2025年12月19日 |
-| DP-900 | 数据 | Azure 数据基础认证 (Azure Data Fundamentals) | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | 2025年12月19日 |
+| AI-900 | 人工智能 | Azure AI 基础认证 (Azure AI Fundamentals) | [7Z9DA9-388866](https://learn.microsoft.com/en-us/users/zhihualai/credentials/6aa7beda646a1c18) | 2025年12月19日 |
+| DP-900 | 数据 | Azure 数据基础认证 (Azure Data Fundamentals) | [CD4244-E236BG](https://learn.microsoft.com/en-us/users/zhihualai/credentials/2a537bbc335f5b23) | 2025年12月19日 |
 
 Google云认证
 --------------------
