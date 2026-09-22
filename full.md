@@ -8,7 +8,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 19-September-2026
+- **Version** 22-September-2026
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -86,6 +86,9 @@ Job Experience
   * ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
   * ACM MobiCom'23: (*[Best Demo Award Runner-Up](https://sigmobile.org/mobicom/2023/posters.html)*), [Programmable RAN Platform for Flexible Real-Time Control and Telemetry](https://dl.acm.org/doi/pdf/10.1145/3570361.3614065)
   * ACM MobiCom'23: [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745)
+* **Hackathons**:
+  * 2026 - Spirit of Hackathon Award
+  * 2025 - Societal Impact Award
 
 **Software Development Engineer** at ***Amazon AWS (Cambridge, UK)*** 
 2020/01 to 2021/07: SDE (L5) = **Someone Does Everything** = Full Stack Software Engineer + On-Call Duties
