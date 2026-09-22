@@ -9,7 +9,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 19-September-2026 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
+- **Version** 22-September-2026 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
 - **The Longer Version** [https://doctorlai.github.io/full](https://doctorlai.github.io/full)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
@@ -107,6 +107,10 @@ As an engineer in the Research Organization, I help researchers rapidly prototyp
 - [https://github.com/microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf)
 - [https://github.com/microsoft/exekias](https://github.com/microsoft/exekias)
 - [https://github.com/microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps)
+
+**Hackathons**
+- 2026 - Spirit of Hackathon Award
+- 2025 - Societal Impact Award
 
 **Publications (Selected)**
 
