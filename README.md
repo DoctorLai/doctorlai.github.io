@@ -131,6 +131,7 @@ As an engineer in the Research Organization, I help researchers rapidly prototyp
 2006-2010, University of Bedfordshire, UK
 
 **BSc, Computer Science (First Class)**  
+<*The Chinese Chess*>
 2004-2006, University of Luton, UK  
 
 ---
