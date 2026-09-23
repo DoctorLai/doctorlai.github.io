@@ -32,11 +32,8 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 
 ## CORE SKILLS
 
-- **Systems & Networking:** C, C++, eBPF, Linux, O-RAN, 4G/5G, RAN, low-latency systems  
-- **Cloud & Distributed Systems:**  
-  Azure (AKS, Kubernetes, Functions, Service Bus, CI/CD etc),  
-  AWS (S3, EC2, Lambda, DynamoDB, CloudFormation etc)  
-- **Languages:** C/C++, Python, Go, Java, C#, Rust, PHP, Node.js etc
+- **Systems & Networking:** C, C++, Python, Linux, low-latency systems  
+- **Cloud & Distributed Systems:** AWS, Azure
 - **Research & Engineering:** Performance optimization, rapid prototyping (0→1)  
 - **Blockchain:** Infrastructure, tooling, APIs, block production (Steem)
 
@@ -131,10 +128,10 @@ As an engineer in the Research Organization, I help researchers rapidly prototyp
 
 **PhD, Computer Science (Wireless & Algorithms)**  
 <*The development of an intelligent ray launching algorithm for wireless network planning*>    
-2010, University of Bedfordshire, UK
+2006-2010, University of Bedfordshire, UK
 
 **BSc, Computer Science (First Class)**  
-2006, University of Luton, UK  
+2004-2006, University of Luton, UK  
 
 ---
 
