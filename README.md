@@ -5,14 +5,12 @@
 </style>
 
 # Zhihua Lai, PhD
-**Senior Software Engineer — Systems, Cloud & Networking**
+**Senior Software Engineer | Distributed Systems | C/C++ | Linux | Cloud & AI Infrastructure**
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 22-September-2026 | **View Source** [https://doctorlai.github.io](https://github.com/DoctorLai/doctorlai.github.io/blob/main/README.md)
-- **The Longer Version** [https://doctorlai.github.io/full](https://doctorlai.github.io/full)
+- **Version** 23-September-2026
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
-- **GitHub:** [https://github.com/DoctorLai](https://github.com/DoctorLai)
 - **GitHub (Microsoft Research):** [https://github.com/doctorlai-msrc](https://github.com/doctorlai-msrc)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -26,7 +24,7 @@ working on **AI Tooling, high-performance systems, cloud infrastructure, robotic
 - Former **General Electric** Staff Software Engineer.
 working on Magik Compiler
 - **PhD in Computer Science**, published researcher (ACM MobiCom)
-- **Top-3 Witness  (Block Producer)** on the **Steem Blockchain** ([https://steemyy.com](https://steemyy.com)).
+- **Top-3 Witness  (Block Producer)** on the **Steem Blockchain**
 
 Proven record of delivering **low-latency, production-grade systems** across **C/C++, eBPF, distributed cloud platforms, and large-scale storage systems**.
 
@@ -192,8 +190,7 @@ As an engineer in the Research Organization, I help researchers rapidly prototyp
 
 ## BLOCKCHAIN & OPEN SOURCE LEADERSHIP
 
-- **Top-3 Witness (Block Producer)** on the **Steem Blockchain**  
-  [https://steemyy.com/witness-ranking/](https://steemyy.com/witness-ranking/)
+- **Top-3 Witness (Block Producer)** on the **Steem Blockchain**
 - Architect and operator of **Steem infrastructure, APIs, explorers, and services**
 - Maintainer of open-source blockchain tooling and load-balancing infrastructure
 
@@ -208,5 +205,5 @@ As an engineer in the Research Organization, I help researchers rapidly prototyp
 
 ## MISCELLANEOUS
 
-- Clean UK Driving License (13 yr+)
+- Clean UK Driving License (14 yr+)
 - Teaching Kids Programming (Python, Data Structures and Algorithms) for [**700+ days**](https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A)
