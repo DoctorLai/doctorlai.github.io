@@ -8,7 +8,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 22-September-2026
+- **Version** 23-September-2026
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -258,11 +258,11 @@ Worth mentioning
 Miscellaneous 
 -------------------
 * 2019-11 to 2019-12: I taught the course *Microbit Programming* at weekends in Chesterton Community Colleage (organised by Chinese Family Together and Hacklab Cambridge) to kids (8 yrs+). 
-* I teach my sons programming (and math) videos (700 days+): [https://zhihua-lai.com/teaching/](https://zhihua-lai.com/teaching/)
+* I teach my sons programming (and math) for [700 days+](https://zhihua-lai.com/teaching/)
 * Keep learning:
     * My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
     * [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
     * [Credly](https://www.credly.com/users/zhihua-lai/)
     * [Github: C++ Coding Exercise](https://github.com/doctorlai/cpp-coding-exercise)
     * I develop the [ExamGPT](https://chatgpt.com/g/g-698ba89e5a1c8191a12605d515f7faeb-exam-gpt)
-* Clean UK Driving License (13 yr+)
+* Clean UK Driving License (14 yr+)
