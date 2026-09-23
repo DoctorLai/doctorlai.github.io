@@ -35,7 +35,7 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 - **Systems & Networking:** C, C++, Python, Linux, low-latency systems  
 - **Cloud & Distributed Systems:** AWS, Azure
 - **Research & Engineering:** Performance optimization, rapid prototyping (0→1)  
-- **Blockchain:** Infrastructure, tooling, APIs, block production (Steem)
+- **Blockchain:** Infrastructure, Tooling, dApps (TRON, ETH), APIs, block production (Steem)
 
 ---
 
@@ -127,12 +127,10 @@ As an engineer in the Research Organization, I help researchers rapidly prototyp
 ## EDUCATION
 
 **PhD, Computer Science (Wireless & Algorithms)**  
-<*The development of an intelligent ray launching algorithm for wireless network planning*>    
-2006-2010, University of Bedfordshire, UK
+2006-2010, <*The development of an intelligent ray launching algorithm for wireless network planning*> University of Bedfordshire, UK
 
 **BSc, Computer Science (First Class)**  
-<*The Chinese Chess*>
-2004-2006, University of Luton, UK  
+2004-2006, <*The Chinese Chess*> University of Luton, UK  
 
 ---
 
