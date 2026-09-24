@@ -5,7 +5,7 @@
 </style>
 
 # Zhihua Lai, PhD
-**Senior Software Engineer | Distributed Systems | C/C++ | Linux | Cloud & AI Infrastructure**
+**Senior Software Engineer | Distributed Systems | C/C++ | Linux, Kubernetes | Cloud & AI Infrastructure**
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
@@ -33,7 +33,7 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 ## CORE SKILLS
 
 - **Systems & Networking:** C, C++, Python, Linux, low-latency systems  
-- **Cloud & Distributed Systems:** AWS, Azure
+- **Cloud & Distributed Systems:** AWS, Azure, Kubernetes
 - **Research & Engineering:** Performance optimization, rapid prototyping (0→1)  
 - **Blockchain:** Infrastructure, Tooling, dApps (TRON, ETH), APIs, block production (Steem)
 
@@ -46,14 +46,13 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 [https://www.microsoft.com/en-us/research/group/ins/](https://www.microsoft.com/en-us/research/group/ins/)
 *July 2021 – Present*
 
-- Contribute to AI Tooling for the researchers in MSR
-- Build **high-performance software** running on **5G base stations** using **C/C++, eBPF, and Linux**
-- Support researchers in turning ideas **from prototype to production**
-- Contribute to **open-source research platforms** used by the global RAN community
+- Contribute to AI Tooling/Image for the researchers in MSR
+- Contribute to CLI for submitting, monitoring, and managing ML experiments on Microsoft compute platforms
+- Contribute to Project Janus: Userspace eBPF instrumentation and control framework for deploying control and monitoring functions in a secure manner.
 
 As an engineer in the Research Organization, I help researchers rapidly prototype ideas from 0 to 1. I’ve contributed across a broad technical spectrum — from low-level systems programming (eBPF in C) and performance-critical C++ components to application development in C#, Android (Java/Kotlin), and robotics (ROS2). I was also involved in Embedded Rust projects, including development on ESP32. Recently, I have been working on the AI tooling for the researchers in the MSR.
 
-**Selected Open Source Contributions** (username *[doctorlai-msrc](https://github.com/doctorlai-msrc)*)
+**Selected Microsoft Open Source Contributions** (username *[doctorlai-msrc](https://github.com/doctorlai-msrc)*)
 
 - [https://github.com/microsoft/jbpf](https://github.com/microsoft/jbpf)
 - [https://github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller)
