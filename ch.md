@@ -23,7 +23,8 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
-| AI-103 | AI      | **Azure AI 应用与智能体开发工程师 (Azure AI Apps and Agents Developer Associate)**                          | [015F1C-9CDD4B](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8ea8289f33cb583e) | 2026年8月12日 |
+| DP-800 | 人工智能, 数据库     | **SQL AI 开发工程师(助理级)（SQL AI Developer Associate)**                                  | [53T946-FC71B9](https://learn.microsoft.com/en-us/users/zhihualai/credentials/1884008cab53d2e2) | 2026年9月24日 |
+| AI-103 | 人工智能      | **Azure AI 应用与智能体开发工程师 (Azure AI Apps and Agents Developer Associate)**                          | [015F1C-9CDD4B](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8ea8289f33cb583e) | 2026年8月12日 |
 | GH-600 | 人工智能      | **自主智能体 AI 开发人员 (Agentic AI Developer)**                          | [15VA56-8E60AA](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ab15b09480d02a35) | 2026年7月27日 |
 | AB-100 | 人工智能      | **自主智能体 AI 业务解决方案架构师 (Agentic AI Business Solutions Architect)**                          | [5B690B-6FA8K5](https://learn.microsoft.com/en-us/users/zhihualai/credentials/54ea77333c601c1f) | 2026年7月10日 |
 | AB-900 | 人工智能      | Copilot and Agent 管理基础认证 (Copilot and Agent Administration Fundamentals)                         | [J7FEF2-AB3155](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8471a8f807a3939d) | 2026年6月26日 |
