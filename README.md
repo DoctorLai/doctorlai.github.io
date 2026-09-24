@@ -151,8 +151,8 @@ As an engineer in the Research Organization, I help researchers rapidly prototyp
 
 ## HONORS
 
-- **ACM National Olympiad in Informatics (NOI)** — Third Prize  
-- **Marie Curie Fellowship** (EU)
+- 2002, **ACM National Olympiad in Informatics** — Third Prize   in the Advanced Group, 8th NOIP competition 
+- 2009, **Marie Curie Fellowship for Transfer of Knowledge** (EU/Switzerland)
 
 ---
 
