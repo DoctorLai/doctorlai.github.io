@@ -85,14 +85,10 @@ I enable researchers to move rapidly from idea to working prototype by solving t
 **AWS S3, Cambridge, UK**  
 *January 2020 – July 2021*
 
-- **Day-1 engineer** on **Amazon S3 Object Lambda**  
-  [https://aws.amazon.com/s3/features/object-lambda/](https://aws.amazon.com/s3/features/object-lambda/)
-- Contributed to the **successful global launch**  
-  [https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda/](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda/)
-- Built internal tooling to **identify performance bottlenecks** in one of the world’s largest distributed storage systems.
-- Participated in **on-call rotation** for mission-critical AWS services e.g. S3 Object Lamda
-
-**Tech Stack:** Java, Python, Node.js, AWS S3, Lambda, DynamoDB, CloudFormation
+- Contributed to the design, development, and global launch of Amazon S3 Object Lambda, a new AWS S3 capability serving customers at global cloud scale. [https://aws.amazon.com/s3/features/object-lambda/](https://aws.amazon.com/s3/features/object-lambda/)
+- Built internal performance-analysis tooling to identify system bottlenecks, investigate latency, and improve operational visibility across highly distributed storage infrastructure.
+- Supported production operations through an on-call rotation for business-critical AWS services, including S3 Object Lambda, troubleshooting live issues and maintaining service reliability.
+- Worked across service development, infrastructure, diagnostics, and operational readiness in a large-scale distributed systems environment.
 
 ---
 
