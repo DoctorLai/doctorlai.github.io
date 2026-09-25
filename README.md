@@ -106,7 +106,7 @@ I worked with the relevant engineering and product teams through the review, val
 
 What made the initiative successful was identifying a real developer pain point, taking ownership beyond my immediate onboarding responsibilities, producing a working solution rather than just proposing an idea, and building enough technical confidence across teams to get a core language change into a production release.
 
-https://en.wikipedia.org/wiki/Magik_(programming_language)
+[https://en.wikipedia.org/wiki/Magik_(programming_language)](https://en.wikipedia.org/wiki/Magik_(programming_language))
 
 ---
 
