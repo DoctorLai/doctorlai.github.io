@@ -9,9 +9,8 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 24-September-2026
+- **Version** 25-September-2026
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
-- **GitHub (Microsoft Research):** [https://github.com/doctorlai-msrc](https://github.com/doctorlai-msrc)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
 ---
@@ -33,7 +32,7 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 ## CORE SKILLS
 
 - **Systems & Networking:** C, C++, Python, Linux, low-latency systems  
-- **Cloud & Distributed Systems:** AWS, Azure, Kubernetes
+- **Cloud & Distributed Systems:** AWS, Azure, k8s/Kubernetes
 - **Research & Engineering:** Performance optimization, rapid prototyping (0→1)  
 - **Blockchain:** Infrastructure, Tooling, dApps (TRON, ETH), APIs, block production (Steem)
 
