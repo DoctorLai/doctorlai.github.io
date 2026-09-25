@@ -46,8 +46,10 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 *July 2021 – Present*
 
 - Contribute to AI Tooling/Image for the researchers in MSR
+- Contribute to the ML Proxy component which is used to load balancing and route the inference requests to GPU backends
+- Contribute to the Data flywheel training pipeline for Robotics applications
 - Contribute to CLI for submitting, monitoring, and managing ML experiments on Microsoft compute platforms
-- Contribute to Project Janus: Userspace eBPF instrumentation and control framework for deploying control and monitoring functions in a secure manner.
+- Contribute to Project Janus: Userspace eBPF instrumentation and control framework for deploying control and monitoring functions in a secure manner
 
 I enable researchers to move rapidly from idea to working prototype by solving the engineering, infrastructure, and tooling problems around their research. My work spans eBPF in C, performance-critical C++, C#, Android, ROS2 robotics, and Embedded Rust on ESP32. More recently, I’ve focused on AI/ML tooling at Microsoft Research, building systems that simplify experiment submission and execution on Microsoft compute platforms. This reduces operational friction for researchers, shortens iteration cycles, and helps turn exploratory research into reproducible, scalable workflows.
 
