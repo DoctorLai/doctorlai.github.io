@@ -50,7 +50,7 @@ Proven record of delivering **low-latency, production-grade systems** across **C
 - Contribute to CLI for submitting, monitoring, and managing ML experiments on Microsoft compute platforms
 - Contribute to Project Janus: Userspace eBPF instrumentation and control framework for deploying control and monitoring functions in a secure manner.
 
-As an engineer in the Research Organization, I help researchers rapidly prototype ideas from 0 to 1. I’ve contributed across a broad technical spectrum — from low-level systems programming (eBPF in C) and performance-critical C++ components to application development in C#, Android (Java/Kotlin), and robotics (ROS2). I was also involved in Embedded Rust projects, including development on ESP32. Recently, I have been working on the AI tooling for the researchers in the MSR.
+I enable researchers to move rapidly from idea to working prototype by solving the engineering, infrastructure, and tooling problems around their research. My work spans eBPF in C, performance-critical C++, C#, Android, ROS2 robotics, and Embedded Rust on ESP32. More recently, I’ve focused on AI/ML tooling at Microsoft Research, building systems that simplify experiment submission and execution on Microsoft compute platforms. This reduces operational friction for researchers, shortens iteration cycles, and helps turn exploratory research into reproducible, scalable workflows.
 
 **Selected Microsoft Open Source Contributions** (username *[doctorlai-msrc](https://github.com/doctorlai-msrc)*)
 
@@ -58,7 +58,6 @@ As an engineer in the Research Organization, I help researchers rapidly prototyp
 - [https://github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller)
 - [https://github.com/microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf)
 - [https://github.com/microsoft/exekias](https://github.com/microsoft/exekias)
-- [https://github.com/microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps)
 
 **Hackathons**
 - 2026 - Spirit of Hackathon Award
@@ -101,14 +100,17 @@ As an engineer in the Research Organization, I help researchers rapidly prototyp
 **Smallworld GIS, Cambridge, UK**  
 *December 2018 – January 2020*
 
-- Core contributor to **Smallworld GIS platform**  
-  [https://en.wikipedia.org/wiki/Magik_(programming_language)](https://en.wikipedia.org/wiki/Magik_(programming_language))
-- Designed and implemented **language-level features** in the Magik compiler
+Core contributor to **Smallworld GIS platform**  
 
-**Key Contributions**
-- Added **while-loop**, **regular expression engine**, **HTTP** and **JWT libraries**
-- Improved runtime performance and fixed multithreading race conditions
-- 165+ pull requests merged; significant impact within first 3 months
+I was initially onboarding to the GE Smallworld platform and learning its programming language, Magik. Within my first few weeks, I identified two significant gaps in the Magik language: it lacked a native while loop and regular-expression support. 
+
+I took the initiative to design, implement, and test both features  then presented the proposal and working implementation at a GE technical briefing. The main challenge was not just the engineering work, but coordinating the change across several parts of the organisation and convincing the product owners that introducing a new language construct was both necessary and safe. Because millions of lines of production code depended on Magik, backward compatibility and release quality were critical.
+
+I worked with the relevant engineering and product teams through the review, validation, and release process, addressing technical concerns and demonstrating practical use cases for the feature. The change was ultimately accepted and shipped as part of the GE Smallworld 5.x release.
+
+What made the initiative successful was identifying a real developer pain point, taking ownership beyond my immediate onboarding responsibilities, producing a working solution rather than just proposing an idea, and building enough technical confidence across teams to get a core language change into a production release.
+
+https://en.wikipedia.org/wiki/Magik_(programming_language)
 
 ---
 
