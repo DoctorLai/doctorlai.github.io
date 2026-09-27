@@ -216,6 +216,6 @@ Additional Microsoft certifications include Azure, AI, security, GitHub, Power P
 
 ## MISCELLANEOUS
 
-- **Full UK driving licence** — 14+ years
+- **Full Clean UK driving licence** — 14+ years
 - Teaching my sons **Python, data structures, and algorithms** for **700+ days** (since 2021)
   [https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A](https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A)
