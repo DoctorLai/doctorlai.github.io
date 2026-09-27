@@ -1,3 +1,9 @@
+<style>
+.markdown-body > h1:first-of-type {
+  display: none;
+}
+</style>
+
 # Zhihua Lai, PhD
 
 **Senior Software Engineer | Distributed Systems | C/C++ | Linux & Kubernetes | Cloud & AI Infrastructure**
