@@ -99,7 +99,7 @@ GitHub username: **doctorlai-msrc**
 Core contributor to **Amazon S3 Object Lambda**.
 
 - Contributed to the design, development, and global launch of **Amazon S3 Object Lambda**, a new AWS S3 capability serving customers at global cloud scale.  
-  https://aws.amazon.com/s3/features/object-lambda/
+  [https://aws.amazon.com/s3/features/object-lambda/](https://aws.amazon.com/s3/features/object-lambda/)
 - Built internal performance-analysis tooling to identify system bottlenecks, investigate latency, and improve operational visibility across highly distributed storage infrastructure.
 - Supported production operations through an **on-call rotation** for business-critical AWS services, including S3 Object Lambda, troubleshooting live issues and maintaining service reliability.
 - Worked across service development, infrastructure, diagnostics, performance analysis, and operational readiness in a large-scale distributed-systems environment.
@@ -185,7 +185,7 @@ Final Project: *Chinese Chess*
 
 ## HONOURS & AWARDS
 
-- **2002 — ACM National Olympiad in Informatics**, Third Prize, Advanced Group, 8th NOIP Competition
+- **2002 — ACM National Olympiad in Informatics**, [Third Prize, Advanced Group, 8th NOIP Competition](https://www.microsoft.com/en-us/research/wp-content/uploads/2021/08/NOIP.jpg)
 - **2009 — Marie Curie Fellowship for Transfer of Knowledge**, EU/Switzerland
 
 ---
