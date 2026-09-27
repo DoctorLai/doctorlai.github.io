@@ -6,11 +6,11 @@
 
 # Zhihua Lai, PhD
 
-**Senior Software Engineer** | **Distributed Systems** | **C/C++** | **Linux & Kubernetes** | **Cloud & AI Infrastructure**
+**Senior Software Engineer** | **Distributed Systems** | **C/C++/Python** | **Linux & Kubernetes** | **Cloud & AI Infrastructure**
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 27/09/2026 - Latest available: https://doctorlai.github.io
+- **Version:** 27/09/2026 **@latest: [https://doctorlai.github.io](https://doctorlai.github.io)**
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
