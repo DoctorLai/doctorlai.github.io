@@ -134,8 +134,6 @@ C, C++, Java, Magik, Programming Languages, Compiler/Language Development, Testi
 
 Led the research, design, and implementation of radio-propagation algorithms for **Ranplan's Radio Propagation Model (RPM)**, one of the company's core intellectual-property assets and a key component of its commercial wireless-network planning products.
 
-### Key Contributions
-
 - **Lead developer of Ranplan's radio-wave propagation engine**, one of the company's core commercial IP platforms.
 - Designed and implemented **ray-tracing, diffraction, and wireless channel-modelling algorithms** used in commercial indoor and outdoor network-planning tools.
 - Led a major **C++ rewrite and performance optimisation** of the propagation engine, including **OpenCL GPU acceleration and performance-critical inline assembly**.
