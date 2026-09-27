@@ -6,13 +6,13 @@
 
 # Zhihua Lai, PhD
 
-**Senior Software Engineer | Distributed Systems | C/C++ | Linux & Kubernetes | Cloud & AI Infrastructure**
+**Senior Software Engineer** | **Distributed Systems** | **C/C++** | **Linux & Kubernetes** | **Cloud & AI Infrastructure****
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
 - **Version:** 27 September 2026
-- **LinkedIn:** https://www.linkedin.com/in/doctorlai
-- **Microsoft Research Profile:** https://www.microsoft.com/en-us/research/people/zhihualai/
+- **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
+- **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
 ---
 
@@ -42,7 +42,7 @@ Proven track record of delivering **low-latency, production-grade systems** acro
 
 ### **Microsoft Research Cambridge — Senior Software Engineer**
 **Intelligent Network Systems (formerly Azure for Operators)**  
-https://www.microsoft.com/en-us/research/group/ins/  
+[https://www.microsoft.com/en-us/research/group/ins/](https://www.microsoft.com/en-us/research/group/ins/)
 *July 2021 – Present*
 
 - Contribute to **AI tooling and standardised development images for Microsoft Research**, enabling researchers to build, run, and experiment with AI workloads more efficiently.
@@ -62,10 +62,10 @@ C, C++, Python, C#, Linux, eBPF, Azure, Kubernetes, AI/ML Infrastructure, GPU In
 
 GitHub username: **doctorlai-msrc**
 
-- https://github.com/microsoft/jbpf
-- https://github.com/microsoft/jrt-controller
-- https://github.com/microsoft/jbpf-protobuf
-- https://github.com/microsoft/exekias
+- [https://github.com/microsoft/jbpf](https://github.com/microsoft/jbpf)
+- [https://github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller)
+- [https://github.com/microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf)
+- [https://github.com/microsoft/exekias](https://github.com/microsoft/exekias)
 
 ### Hackathons
 
@@ -75,14 +75,14 @@ GitHub username: **doctorlai-msrc**
 ### Selected Publications
 
 - *Distributed AI Platform for the 6G RAN* — Open-AI RAN'25  
-  https://doi.org/10.48550/arXiv.2410.03747
+  [https://doi.org/10.48550/arXiv.2410.03747](https://doi.org/10.48550/arXiv.2410.03747)
 
 - *Taking 5G RAN Analytics and Control to a New Level* — ACM MobiCom'23  
-  https://dl.acm.org/doi/10.1145/3570361.3592493
+  [https://dl.acm.org/doi/10.1145/3570361.3592493](https://dl.acm.org/doi/10.1145/3570361.3592493)
 
 - *Programmable RAN Platform for Flexible Real-Time Control and Telemetry* — ACM MobiCom'23  
   **Best Demo Award Runner-Up**  
-  https://dl.acm.org/doi/10.1145/3570361.3614065
+  [https://dl.acm.org/doi/10.1145/3570361.3614065](https://dl.acm.org/doi/10.1145/3570361.3614065)
 
 ### Previous Publications
 
@@ -120,7 +120,7 @@ Core contributor to the **Smallworld GIS platform and Magik programming language
 - Worked across engineering and product teams to safely introduce language changes into a platform with **millions of lines of production code**.
 - Both capabilities were accepted and shipped as part of the **Smallworld 5.x** release.
 
-https://en.wikipedia.org/wiki/Magik_(programming_language)
+[https://en.wikipedia.org/wiki/Magik_(programming_language)](https://en.wikipedia.org/wiki/Magik_(programming_language))
 
 **Technical areas:**  
 C, C++, Java, Magik, Programming Languages, Compiler/Language Development, Testing Frameworks, CI/CD
@@ -130,7 +130,7 @@ C, C++, Java, Magik, Programming Languages, Compiler/Language Development, Testi
 ### **Ranplan Wireless — Principal Algorithm Engineer**
 **Cambridgeshire, UK**  
 *September 2010 – November 2018 · 8 yrs 3 mos*  
-https://ranplanwireless.com/
+[https://ranplanwireless.com/](https://ranplanwireless.com/)
 
 Led the research, design, and implementation of radio-propagation algorithms for **Ranplan's Radio Propagation Model (RPM)**, one of the company's core intellectual-property assets and a key component of its commercial wireless-network planning products.
 
