@@ -214,5 +214,5 @@ Total 28: [https://doctorlai.github.io/microsoft-certifications](https://doctorl
 ## MISCELLANEOUS
 
 - **Full UK driving licence** — 14+ years
-- Teaching children **Python, data structures, and algorithms** for **700+ consecutive days**  
+- Teaching my sons **Python, data structures, and algorithms** for **700+ days** (since 2021) 
   https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A
