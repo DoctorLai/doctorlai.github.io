@@ -143,7 +143,7 @@ Led the research, design, and implementation of radio-propagation algorithms for
 - Contributed to **Ranplan patents and technical research** in radio propagation, channel modelling, and indoor positioning.
 
 **Technical areas:**  
-C++, C#, Delphi, OpenCL, GPU Computing, Ray Tracing, Radio Propagation, Wireless Channel Modelling, GIS, Machine Learning, KNN, SVM, Performance Optimisation, CI/CD, Testing
+C++, C#, Delphi, OpenCL, GPU Computing, Ray Tracing, Radio Propagation, Wireless Channel Modelling, GIS, Machine Learning, KNN, Performance Optimisation, CI/CD, Testing
 
 ---
 
@@ -154,7 +154,7 @@ C++, C#, Delphi, OpenCL, GPU Computing, Ray Tracing, Radio Propagation, Wireless
 
 Thesis: *The Development of an Intelligent Ray Launching Algorithm for Wireless Network Planning*
 
-### **BSc, Computer Science — First Class Honours**
+### **BSc, Computer Science — First Class Honours (3 A+, 5 A)**
 **University of Luton, UK** · 2004–2006  
 
 Final Project: *Chinese Chess*
@@ -200,8 +200,7 @@ Final Project: *Chinese Chess*
 
 Additional Microsoft certifications include Azure, AI, security, GitHub, Power Platform, and data credentials.
 
-**Full certification list:**  
-Total 28: [https://doctorlai.github.io/microsoft-certifications](https://doctorlai.github.io/microsoft-certifications)
+**Full certification list:**  Total 28: [https://doctorlai.github.io/microsoft-certifications](https://doctorlai.github.io/microsoft-certifications)
 
 ---
 
@@ -214,5 +213,5 @@ Total 28: [https://doctorlai.github.io/microsoft-certifications](https://doctorl
 ## MISCELLANEOUS
 
 - **Full UK driving licence** — 14+ years
-- Teaching my sons **Python, data structures, and algorithms** for **700+ days** (since 2021) 
-  https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A
+- Teaching my sons **Python, data structures, and algorithms** for **700+ days** (since 2021)
+  [https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A](https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A)
