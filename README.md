@@ -6,11 +6,11 @@
 
 # Zhihua Lai, PhD
 
-**Senior Software Engineer** | **Distributed Systems** | **C/C++/Python** | **Linux & Kubernetes** | **Cloud & AI Infrastructure**
+**Senior Software Engineer** | **Distributed Systems** | **Platform & DevOps Engineering** | **C/C++** | **Linux & Kubernetes** | **Cloud & AI Infrastructure**
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 27/09/2026 **@latest: [https://doctorlai.github.io](https://doctorlai.github.io)**
+- **Version:** 27 September 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -19,7 +19,7 @@
 ## PROFESSIONAL SUMMARY
 
 - Senior Software Engineer at **Microsoft Research Cambridge**, working across **AI/ML infrastructure, high-performance systems, robotics, cloud infrastructure, and 5G/6G networking**
-- Former **Amazon AWS** engineer and Day-1 contributor to **Amazon S3 Object Lambda**
+- Former **AWS engineer** and Day-1 contributor to **Amazon S3 Object Lambda**
 - Former **General Electric Staff Software Engineer**, contributing to the Smallworld GIS platform and Magik programming language
 - **PhD in Computer Science**, with research and publications in wireless systems and algorithms
 - **Top-3 Witness (Block Producer)** on the **Steem blockchain**
@@ -31,7 +31,7 @@ Proven track record of delivering **low-latency, production-grade systems** acro
 ## CORE SKILLS
 
 - **Systems & Networking:** C, C++, Python, Linux, eBPF, low-latency systems
-- **Cloud & Distributed Systems:** AWS, Azure, Kubernetes, distributed systems
+- **Cloud & Distributed Systems:** AWS, Azure, Kubernetes, cloud infrastructure
 - **AI/ML Infrastructure:** GPU inference, ML tooling, compute platforms, robotics
 - **Research & Engineering:** Algorithms, performance optimisation, rapid prototyping (0→1)
 - **Blockchain:** Infrastructure, APIs, dApps, block production
@@ -42,14 +42,14 @@ Proven track record of delivering **low-latency, production-grade systems** acro
 
 ### **Microsoft Research Cambridge — Senior Software Engineer**
 **Intelligent Network Systems (formerly Azure for Operators)**  
-[https://www.microsoft.com/en-us/research/group/ins/](https://www.microsoft.com/en-us/research/group/ins/)
+[https://www.microsoft.com/en-us/research/group/ins/](https://www.microsoft.com/en-us/research/group/ins/)  
 *July 2021 – Present*
 
 - Contribute to **AI tooling and standardised development images for Microsoft Research**, enabling researchers to build, run, and experiment with AI workloads more efficiently.
 - Build and improve the **ML Proxy**, a core infrastructure component for **load balancing and routing inference requests across GPU backends**, improving scalability and accelerator utilisation.
 - Build components of the **data flywheel and model-training pipeline for robotics applications**, supporting continuous data ingestion, processing, training, and model improvement.
-- Contribute substantially to a **CLI for submitting, monitoring, and managing ML experiments** across Microsoft compute platforms, simplifying researchers' interaction with large-scale compute infrastructure.
-- Contribute substantially to **Project Janus**, a userspace **eBPF-based instrumentation and control framework** for securely deploying monitoring and control functions.
+- Contribute extensively to a **CLI for submitting, monitoring, and managing ML experiments** across Microsoft compute platforms, simplifying researchers' interaction with large-scale compute infrastructure.
+- Contribute extensively to **Project Janus**, a userspace **eBPF-based instrumentation and control framework** for securely deploying monitoring and control functions.
 
 I enable researchers to move rapidly from idea to working prototype by solving the engineering, infrastructure, and tooling problems around their research. My work spans eBPF in C, performance-critical C++, C#, Android, ROS2 robotics, and Embedded Rust on ESP32.
 
@@ -129,7 +129,7 @@ C, C++, Java, Magik, Programming Languages, Compiler/Language Development, Testi
 
 ### **Ranplan Wireless — Principal Algorithm Engineer**
 **Cambridgeshire, UK**  
-*September 2010 – November 2018 · 8 yrs 3 mos*  
+*September 2010 – November 2018*  
 [https://ranplanwireless.com/](https://ranplanwireless.com/)
 
 Led the research, design, and implementation of radio-propagation algorithms for **Ranplan's Radio Propagation Model (RPM)**, one of the company's core intellectual-property assets and a key component of its commercial wireless-network planning products.
@@ -137,7 +137,7 @@ Led the research, design, and implementation of radio-propagation algorithms for
 - **Lead developer of Ranplan's radio-wave propagation engine**, one of the company's core commercial IP platforms.
 - Designed and implemented **ray-tracing, diffraction, and wireless channel-modelling algorithms** used in commercial indoor and outdoor network-planning tools.
 - Led a major **C++ rewrite and performance optimisation** of the propagation engine, including **OpenCL GPU acceleration and performance-critical inline assembly**.
-- Researched and prototyped **machine-learning algorithms for wireless modelling**, including KNN-based geolocation and SVM-based prediction of wireless-network performance.
+- Researched and prototyped **machine-learning algorithms for wireless modelling**, e.g. KNN-based geolocation.
 - Developed high-performance **32-bit and 64-bit propagation components and extensibility APIs** using C++, Delphi, C#, and low-level optimisation techniques.
 - Designed algorithms for processing and converting **GIS, clutter, terrain, and building data** into representations used by propagation simulations.
 - Led development of supporting products and components including **GeoConverter** and **GLS licensing services**.
@@ -158,7 +158,7 @@ C++, C#, Delphi, OpenCL, GPU Computing, Ray Tracing, Radio Propagation, Wireless
 
 Thesis: *The Development of an Intelligent Ray Launching Algorithm for Wireless Network Planning*
 
-### **BSc, Computer Science — First Class Honours (3 A+, 5 A)**
+### **BSc, Computer Science — First Class Honours**
 **University of Luton, UK** · 2004–2006  
 
 Final Project: *Chinese Chess*
@@ -204,7 +204,8 @@ Final Project: *Chinese Chess*
 
 Additional Microsoft certifications include Azure, AI, security, GitHub, Power Platform, and data credentials.
 
-**Full certification list:**  Total 28: [https://doctorlai.github.io/microsoft-certifications](https://doctorlai.github.io/microsoft-certifications)
+**Full list of 28 Microsoft certifications:**  
+[https://doctorlai.github.io/microsoft-certifications](https://doctorlai.github.io/microsoft-certifications)
 
 ---
 
@@ -216,6 +217,6 @@ Additional Microsoft certifications include Azure, AI, security, GitHub, Power P
 
 ## MISCELLANEOUS
 
-- **Full Clean UK driving licence** — 14+ years
-- Teaching my sons **Python, data structures, and algorithms** for **700+ days** (since 2021)
+- **Full UK driving licence** — 14+ years
+- Teaching my sons **Python, data structures, and algorithms** through **700+ documented sessions since 2021**  
   [https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A](https://www.youtube.com/playlist?list=PL0tRUxz8YTPSnMC2Rc17zE8DcQcyOlc4A)
