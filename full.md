@@ -8,9 +8,8 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 24-September-2026
+- **Version** 24-September-2026 - Not Recommend, use this instead: [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - **Source** [https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md](https://github.com/DoctorLai/doctorlai.github.io/blob/main/full.md)
-- **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 - Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/)
 - Github: [https://github.com/doctorlai](https://github.com/doctorlai)
@@ -175,45 +174,6 @@ Education and Awards
     
 - *2004*: National Computer Rank Programming Contest, Top 30 by National Education Examinations & China Education
 
-Open Source Projects
---------------------
-I am a builder and a problem-solver.
-
-- [steem-load-balancer](https://github.com/doctorlai/steem-load-balancer): I also deployed load balancing to AWS, Microsoft Azure and CloudFlare.
-- [llm-telegram-bot](https://github.com/DoctorLai/llm-telegram-bot): Simple LLM Telegram Bot.
-- [SimilarString](https://github.com/DoctorLai/SimilarString): Flask App to Compute Similarity of Two Strings.
-- [awesome-steem](https://github.com/Doctorlai/awesome-steem)
-- [yaml-json-converter](https://github.com/doctorlai/yaml-json-converter)
-- [base64-converter](https://github.com/doctorlai/base64-converter)
-- [rot47-converter](https://github.com/doctorlai/rot47-converter)
-- [markdown-html-converter](https://github.com/doctorlai/markdown-html-converter)
-- [prime-factorization](https://github.com/doctorlai/prime-factorization)
-- [hex-viewer](https://github.com/doctorlaihex-viewer)
-- [steem-proxy-cloudflare](https://github.com/DoctorLai/steem-proxy-cloudflare)
-- [sokoban-web](https://github.com/DoctorLai/sokoban-web)
-- Steem Blockchain Tools and APIs: [https://steemyy.com](https://steemyy.com)
-
-DAO (Decentralized Autonomous Organization) Proposals
----------------------
-I've managed to compile/build the STEEM blockchain (C++) on Modern OS.
-
-- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemit.com/sps/@justyy/proposal-fixing-steemd-build-dependencies-in-the-latest-os)
-- Votes: [Proposal: Merging dev changes to main (DAO 98)](https://github.com/steemit/steem/issues/3709)
-
-Pull Requests:
-
-  - [#3707: Enable Basic Tests and Use 4 Theads to Build](https://github.com/steemit/steem/pull/3707)
-  - [#3706: Add Basic Github CI to Build All Dockerfiles](https://github.com/steemit/steem/pull/3706)
-  - [#3705: Fixes and Refactor the Docker files](https://github.com/steemit/steem/pull/3705)
-  - [#3704: Fix test_block_log](https://github.com/steemit/steem/pull/3704)
-  - [#3703: Compile steemd on Debian 13 (Trinx)](https://github.com/steemit/steem/pull/3703)
-  - [#3702: Make Steem Great Again: Support AzureLinux3!](https://github.com/steemit/steem/pull/3702)
-  - [#3701: Make steemd compiled at Ubuntu24.04](https://github.com/steemit/steem/pull/3701)
-  - [#3700: Add Ubuntu 22.04 Support for steemd](https://github.com/steemit/steem/pull/3700)
-  - [#3699: Refactor and Cleanup: Ubuntu20.04 and Remove Ubuntu18.04](https://github.com/steemit/steem/pull/3699)
-
-      
-
 Selected Publications
 ---------------------
 * [Distributed AI Platform for the 6G RAN](https://arxiv.org/pdf/2410.03747), In 2nd ACM Workshop on Open and AI RAN (OpenRan '25), November 4–8, 2025, Hong Kong, China. ACM, New York, NY, USA. [https://doi.org/10.48550/arXiv.2410.03747](https://doi.org/10.48550/arXiv.2410.03747)
@@ -234,36 +194,8 @@ Selected Publications
 * Antenna Height Compensation for an Indoor to Outdoor Channel model based on a 2D Finite Difference Model, 29th Progress In Electromagnetics Research Symposium, Marrakesh, Morocco, March 20-23, 2011.
 * A New Deterministic Hybrid Model for Indoor-to-Outdoor Radio Coverage Prediction, The Fifth European Conference on Antennas and Propagation, EUCAP, IEEE, Rome, Italy, April 11-15, 2011, ISBN: 978-88-8202-074-3, p.p.:3771-3774.
 
-Worth mentioning 
----------------------
-* Ranked Top 30 iPinyou Global RTB Bidding Algorithm Contest (season two offline, 2013)
-* My propagation model 'IRLA' has been cited in the book "Femtocells - Technologies and Deployment", John Wiley & Sons, ISBN: 978-0-470-74298-3.
-* I run a delegated service on steem blockchain [\@justyy](https://steemd.com/@justyy) where Steemians delegate their Steem Power to me and my bots send out the Steem Dollars (tokens) at a rate of 8% to 10%. Also my bots are up running 24/7 to vote the quality posts of the delegatees. 
-* I am currently the top 3 witness on the STEEM Blockchain. A witness is a [block producer](https://steemyy.com/witness-ranking/).
-* I am currently the 3-rd most delegated account on the STEEM Blockchain e.g. 300+ delegations according to [https://steemyy.com/top-delegations-by-count/](https://steemyy.com/top-delegations-by-count/)
-* I run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
-* I develop [\@fairlottery](https://steemit.com/fairlottery/@fairlottery/readme) (Blockchain Lottery) and [\@witnesstools](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum) (Steem Blockchain Gambling).
-* I write discord/telegram bots that distribute test coins (TRX, USDT, USDC, USDD) on Tron Blockchain (Shasta and Nile Test Net).
-* I develop and run Simple Token Swap Tools on Multiple blockchains as a POC: 
-  * [Tron/USDT/USDD/TRX to STEEM](https://steemyy.com/tron2steem.php)
-  * [Steem to SUI](https://steemyy.com/steem2sui.php)
-  * [Steem to Ethereum](https://steemyy.com/steem2eth.php)
-  * [Steem to Solana](https://steemyy.com/steem2sol.php)
-  * [Steem to Bitshares](https://steemyy.com/steem2bts.php)
-  * [Steem to TRON](https://steemyy.com/steem2trx.php)
-  * [Steem to USDT](https://steemyy.com/steem2usdt.php)
-* I develop and run Account Registration Services on Steem Blockchain: [Register a Free Account on Steem Blockchain](https://steemyy.com/reg.php).
-* I develop the [Steem Blockchain Explorer](https://steemyy.com/block.php).
-* I run a [Steem Power Token Rent (Lease Services)](https://steemyy.com/rent-sp.php).
-
 Miscellaneous 
 -------------------
 * 2019-11 to 2019-12: I taught the course *Microbit Programming* at weekends in Chesterton Community Colleage (organised by Chinese Family Together and Hacklab Cambridge) to kids (8 yrs+). 
 * I teach my sons programming (and math) for [700 days+](https://zhihua-lai.com/teaching/)
-* Keep learning:
-    * My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
-    * [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
-    * [Credly](https://www.credly.com/users/zhihua-lai/)
-    * [Github: C++ Coding Exercise](https://github.com/doctorlai/cpp-coding-exercise)
-    * I develop the [ExamGPT](https://chatgpt.com/g/g-698ba89e5a1c8191a12605d515f7faeb-exam-gpt)
-* Clean UK Driving License (14 yr+)
+* Full UK Driving License (14 yr+)
