@@ -10,7 +10,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 27 September 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
+- **Version:** 01 October 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -20,7 +20,7 @@
 
 - Senior Software Engineer at **Microsoft Research Cambridge**, working across **AI/ML infrastructure, high-performance systems, robotics, cloud infrastructure, and 5G/6G networking**
 - Former **AWS engineer** and Day-1 contributor to **Amazon S3 Object Lambda**
-- Former **General Electric Staff Software Engineer**, contributing to the Smallworld GIS platform and Magik programming language
+- Former **General Electric Staff Software Engineer**, contributing to the Smallworld GIS platform and **Magik** programming language
 - **PhD in Computer Science**, with research and publications in wireless systems and algorithms
 - **Top-3 Witness (Block Producer)** on the **Steem blockchain**
 
@@ -50,6 +50,8 @@ Proven track record of delivering **low-latency, production-grade systems** acro
 - Build components of the **data flywheel and model-training pipeline for robotics applications**, supporting continuous data ingestion, processing, training, and model improvement.
 - Contribute extensively to a **CLI for submitting, monitoring, and managing ML experiments** across Microsoft compute platforms, simplifying researchers' interaction with large-scale compute infrastructure.
 - Contribute extensively to **Project Janus**, a userspace **eBPF-based instrumentation and control framework** for securely deploying monitoring and control functions.
+- Developed Embedded Rust firmware on **ESP32-C6** and integrated a robotic gripper with **ROS2**, bridging CAN-based robot commands to **UART/RS485** hardware control and publishing device status back into the ROS2 stack.
+- Evaluated power efficiency and throughput of ROS2 communication on Android, comparing a Kotlin bridge against native **C++ CycloneDDS** under controlled, equivalent traffic rates; implemented deadline-based pacing to prevent cumulative timing drift and ensure reproducible measurements.
 
 I enable researchers to move rapidly from idea to working prototype by solving the engineering, infrastructure, and tooling problems around their research. My work spans eBPF in C, performance-critical C++, C#, Android, ROS2 robotics, and Embedded Rust on ESP32.
 
@@ -201,6 +203,10 @@ Final Project: *Chinese Chess*
 - **[GH-500 — GitHub Advanced Security](https://learn.microsoft.com/en-us/users/zhihualai/credentials/d69bc092596eb053)**
 - **[GH-600 — Agentic AI Developer](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ab15b09480d02a35)**
 - **[DP-800 — SQL AI Developer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/1884008cab53d2e2)**
+- **[AZ-204 — Azure Developer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/7f88b726d3e912c3)**
+- **[AZ-104 — Azure Administrator Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f)**
+- **[SC-300 — Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/bde9e682aaa316bc)**
+- **[PL-300 — Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8007abf0a3707ebf)**
 
 Additional Microsoft certifications include Azure, AI, security, GitHub, Power Platform, and data credentials.
 
