@@ -6,7 +6,7 @@
 
 # Zhihua Lai, PhD
 
-**Senior Software Engineer** | **Distributed Systems** | **Platform & DevOps Engineering** | **C/C++** | **Linux & Kubernetes** | **Cloud & AI Infrastructure**
+**Senior Software Engineer** | **Distributed Systems** | **Platform & DevOps Engineering** | **C/C++/C#** | **Linux & Kubernetes** | **Cloud & AI Infrastructure**
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
