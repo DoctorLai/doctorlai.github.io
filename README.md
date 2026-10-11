@@ -10,7 +10,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 01 October 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
+- **Version:** 11 October 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -52,6 +52,7 @@ Proven track record of delivering **low-latency, production-grade systems** acro
 - Contribute extensively to **Project Janus**, a userspace **eBPF-based instrumentation and control framework** for securely deploying monitoring and control functions.
 - Developed Embedded Rust firmware on **ESP32-C6** and integrated a robotic gripper with **ROS2**, bridging CAN-based robot commands to **UART/RS485** hardware control and publishing device status back into the ROS2 stack.
 - Evaluated power efficiency and throughput of ROS2 communication on Android, comparing a Kotlin bridge against native **C++ CycloneDDS** under controlled, equivalent traffic rates; implemented deadline-based pacing to prevent cumulative timing drift and ensure reproducible measurements.
+- Designed and developed a C#/.NET-based Open RAN base station provisioning framework, leveraging Azure Functions, Azure Service Bus, and MySQL to automate provisioning workflows and enable scalable, reliable cloud-based orchestration.
 
 I enable researchers to move rapidly from idea to working prototype by solving the engineering, infrastructure, and tooling problems around their research. My work spans eBPF in C, performance-critical C++, C#, Android, ROS2 robotics, and Embedded Rust on ESP32.
 
@@ -147,6 +148,7 @@ Led the research, design, and implementation of radio-propagation algorithms for
 - Developed internal engineering tooling for **performance analysis, statistics, code quality, CI, and automated validation**.
 - Provided **Level 3 technical support and customer consulting** for complex wireless-planning and propagation-modelling scenarios.
 - Contributed to **Ranplan patents and technical research** in radio propagation, channel modelling, and indoor positioning.
+- Contributed extensively to the development of a commercial C#/.NET radio network planning application i.e. iBuildNet, implementing core functionality, enhancing performance, and maintaining a complex, production-grade software platform.
 
 **Technical areas:**  
 C++, C#, Delphi, OpenCL, GPU Computing, Ray Tracing, Radio Propagation, Wireless Channel Modelling, GIS, Machine Learning, KNN, Performance Optimisation, CI/CD, Testing
