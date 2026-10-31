@@ -10,7 +10,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 11 October 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
+- **Version:** 31 October 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -59,7 +59,7 @@ I enable researchers to move rapidly from idea to working prototype by solving t
 More recently, I have focused on AI/ML tooling at Microsoft Research, building systems that simplify experiment submission, execution, and infrastructure management across Microsoft compute platforms. This reduces operational friction, shortens research iteration cycles, and helps turn exploratory research into reproducible and scalable workflows.
 
 **Technical areas:**  
-C, C++, Python, C#, Linux, eBPF, Azure, Kubernetes, AI/ML Infrastructure, GPU Inference, Compute Platforms, GitHub CI/CD
+C, C++, Python, C#, Linux, eBPF, Azure, Kubernetes, AI/ML Infrastructure, GPU Inference, Compute Platforms, GitHub CI/CD, Research
 
 ### Selected Microsoft Open-Source Contributions
 
@@ -139,6 +139,7 @@ Led the research, design, and implementation of radio-propagation algorithms for
 
 - **Lead developer of Ranplan's radio-wave propagation engine**, one of the company's core commercial IP platforms.
 - Designed and implemented **ray-tracing, diffraction, and wireless channel-modelling algorithms** used in commercial indoor and outdoor network-planning tools.
+- Designed and implemented radio wave propagation calibration algorithms to tune environment-specific material parameters.
 - Led a major **C++ rewrite and performance optimisation** of the propagation engine, including **OpenCL GPU acceleration and performance-critical inline assembly**.
 - Researched and prototyped **machine-learning algorithms for wireless modelling**, e.g. KNN-based geolocation.
 - Developed high-performance **32-bit and 64-bit propagation components and extensibility APIs** using C++, Delphi, C#, and low-level optimisation techniques.
@@ -151,7 +152,7 @@ Led the research, design, and implementation of radio-propagation algorithms for
 - Contributed extensively to the development of a commercial **C#/.NET** radio network planning application i.e. iBuildNet, implementing core functionality, enhancing performance, and maintaining a complex, production-grade software platform.
 
 **Technical areas:**  
-C++, C#, Delphi, OpenCL, GPU Computing, Ray Tracing, Radio Propagation, Wireless Channel Modelling, GIS, Machine Learning, KNN, Performance Optimisation, CI/CD, Testing
+C++, C#, Delphi, Win32 Assembly, OpenCL, GPU Computing, Ray Tracing, Ray Casting/Launching, Radio Propagation, Wireless Channel Modelling, GIS, Machine Learning, KNN, Performance Optimisation, CI/CD (Jenkins), Testing, Research
 
 ---
 
