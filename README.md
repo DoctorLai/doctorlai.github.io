@@ -10,7 +10,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 31 October 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
+- **Version:** 04 November 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -53,6 +53,7 @@ Proven track record of delivering **low-latency, production-grade systems** acro
 - Developed Embedded Rust firmware on **ESP32-C6** and integrated a robotic gripper with **ROS2**, bridging CAN-based robot commands to **UART/RS485** hardware control and publishing device status back into the ROS2 stack.
 - Evaluated power efficiency and throughput of **ROS2** communication on Android, comparing a **Kotlin** bridge against native **C++ CycloneDDS** under controlled, equivalent traffic rates; implemented deadline-based pacing to prevent cumulative timing drift and ensure reproducible measurements.
 - Designed and developed a **C#/.NET-based** Open RAN base station provisioning framework, leveraging **Azure Functions**, **Azure Service Bus**, and **MySQL** to automate provisioning workflows and enable scalable, reliable cloud-based orchestration.
+- Designed and implemented a sandbox environment enabling agents to submit ML experiments to compute platforms.
 
 I enable researchers to move rapidly from idea to working prototype by solving the engineering, infrastructure, and tooling problems around their research. My work spans eBPF in C, performance-critical C++, C#, Android, ROS2 robotics, and Embedded Rust on ESP32.
 
