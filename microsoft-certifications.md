@@ -1,3 +1,11 @@
+<style>
+.markdown-body > h1:first-of-type {
+  display: none;
+}
+</style>
+
+# Microsoft Certified
+
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
 | AI-500 | AI     | **Multi-Agent AI Solutions Expert**                                  | [56C309-H88156](https://learn.microsoft.com/en-us/users/zhihualai/credentials/275a755486a5615c) | November 14, 2026 |
