@@ -10,7 +10,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 04 November 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
+- **Version:** 14 November 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -196,6 +196,7 @@ Final Project: *Chinese Chess*
 
 ## SELECTED MICROSOFT CERTIFICATIONS
 
+- **[AI-500 - Multi-Agent AI Solutions Expert](https://learn.microsoft.com/en-us/users/zhihualai/credentials/275a755486a5615c)**
 - **[AZ-305 — Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc)**
 - **[SC-100 — Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304)**
 - **[AZ-400 — Azure DevOps Engineer Expert](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce)**
