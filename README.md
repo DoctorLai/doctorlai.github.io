@@ -196,10 +196,10 @@ Final Project: *Chinese Chess*
 
 ## SELECTED MICROSOFT CERTIFICATIONS
 
-- **[AI-500 - Multi-Agent AI Solutions Expert](https://learn.microsoft.com/en-us/users/zhihualai/credentials/275a755486a5615c)**
-- **[AZ-305 — Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc)**
-- **[SC-100 — Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304)**
-- **[AZ-400 — Azure DevOps Engineer Expert](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce)**
+- **[AI-500 — Multi-Agent AI Solutions [Expert]](https://learn.microsoft.com/en-us/users/zhihualai/credentials/275a755486a5615c)**
+- **[AZ-305 — Azure Solutions Architect [Expert]](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc)**
+- **[SC-100 — Cybersecurity Architect [Expert]](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304)**
+- **[AZ-400 — Azure DevOps Engineer [Expert]](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce)**
 - **[AB-100 — Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/users/zhihualai/credentials/54ea77333c601c1f)**
 - **[AI-102 — Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0)**
 - **[AI-103 — Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8ea8289f33cb583e)**
