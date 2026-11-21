@@ -23,6 +23,7 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
+| AI-200 | 人工智能, 云     | **Azure AI 云开发助理 (Azure AI Cloud Developer Associate)**                                  | [2XFB6E-6277E6](https://learn.microsoft.com/en-us/users/zhihualai/credentials/cf63639c66f72d2b) | 2026年11月21日 |
 | AI-500 | 人工智能     | **多智能体AI解决方案专家 (Multi-Agent AI Solutions Expert)**                                  | [56C309-H88156](https://learn.microsoft.com/en-us/users/zhihualai/credentials/275a755486a5615c) | 2026年11月14日 |
 | DP-800 | 人工智能, 数据库     | **SQL AI 开发工程师(助理级) (SQL AI Developer Associate)**                                  | [53T946-FC71B9](https://learn.microsoft.com/en-us/users/zhihualai/credentials/1884008cab53d2e2) | 2026年9月24日 |
 | AI-103 | 人工智能      | **Azure AI 应用与智能体开发工程师 (Azure AI Apps and Agents Developer Associate)**                          | [015F1C-9CDD4B](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8ea8289f33cb583e) | 2026年8月12日 |
@@ -35,7 +36,7 @@
 | SC-100 | 安全      | **网络安全架构专家 (Cybersecurity Architect Expert)**                          | [7EE065-8C3CBW](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304) | 2026年5月8日 |
 | SC-300 | 安全      | **Identity and Access Administrator Associate**                          | [580B52-T0A5BD](https://learn.microsoft.com/en-us/users/zhihualai/credentials/bde9e682aaa316bc) | 2026年5月8日 |
 | GH-500 | Git      | **Github Advanced Security**                          | [50295R-7F754](https://learn.microsoft.com/en-us/users/zhihualai/credentials/d69bc092596eb053) | 2026年5月8日 |
-| AI-901 | AI      | Azure AI Fundamentals                        | 考过了和[AI-900](https://learn.microsoft.com/en-us/users/zhihualai/credentials/6aa7beda646a1c18)一样的证 | 2026年5月1日 |
+| AI-901 | 人工智能      | Azure AI Fundamentals                        | 考过了和[AI-900](https://learn.microsoft.com/en-us/users/zhihualai/credentials/6aa7beda646a1c18)一样的证 | 2026年5月1日 |
 | GH-100 | Git      | Github Administration                          | [BF44B3-48M622](https://learn.microsoft.com/en-us/users/zhihualai/credentials/413a714cbacaa2b2) | 2026年4月29日 |
 | AZ-400 | 开发/运维      | **Azure运维工程师专家 (Azure DevOps Engineer Expert)**                         | [692747-12AEA4](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce) | 2026年4月17日 |
 | GH-300 | Git      | Github Copilot                          | [DCJD08-DF0F44](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a7fd499d22b98aed) | 2026年4月17日 |
