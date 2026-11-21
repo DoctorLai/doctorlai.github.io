@@ -10,7 +10,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 14 November 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
+- **Version:** 21 November 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -54,6 +54,7 @@ Proven track record of delivering **low-latency, production-grade systems** acro
 - Evaluated power efficiency and throughput of **ROS2** communication on Android, comparing a **Kotlin** bridge against native **C++ CycloneDDS** under controlled, equivalent traffic rates; implemented deadline-based pacing to prevent cumulative timing drift and ensure reproducible measurements.
 - Designed and developed a **C#/.NET-based** Open RAN base station provisioning framework, leveraging **Azure Functions**, **Azure Service Bus**, and **MySQL** to automate provisioning workflows and enable scalable, reliable cloud-based orchestration.
 - Designed and implemented a **sandbox** environment enabling agents to submit ML experiments to compute platforms.
+- Designed and implemented a comprehensive integration testing framework for the Robotics application, improving test automation, reliability, and validation efficiency.
 
 I enable researchers to move rapidly from idea to working prototype by solving the engineering, infrastructure, and tooling problems around their research. My work spans eBPF in C, performance-critical C++, C#, Android, ROS2 robotics, and Embedded Rust on ESP32.
 
@@ -208,6 +209,7 @@ Final Project: *Chinese Chess*
 - **[GH-500 — GitHub Advanced Security](https://learn.microsoft.com/en-us/users/zhihualai/credentials/d69bc092596eb053)**
 - **[GH-600 — Agentic AI Developer](https://learn.microsoft.com/en-us/users/zhihualai/credentials/ab15b09480d02a35)**
 - **[DP-800 — SQL AI Developer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/1884008cab53d2e2)**
+- **[AI-200 — Azure AI Cloud Developer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/cf63639c66f72d2b)**
 - **[AZ-204 — Azure Developer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/7f88b726d3e912c3)**
 - **[AZ-104 — Azure Administrator Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/265ff2a66b4af88f)**
 - **[SC-300 — Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/bde9e682aaa316bc)**
