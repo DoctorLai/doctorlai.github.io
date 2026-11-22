@@ -10,7 +10,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 21 November 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
+- **Version:** 22 November 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -217,7 +217,7 @@ Final Project: *Chinese Chess*
 
 Additional Microsoft certifications include Azure, AI, security, GitHub, Power Platform, and data credentials.
 
-**Full list of 28 Microsoft certifications:**  
+**Full list of 30 Microsoft certifications:**  
 [https://doctorlai.github.io/microsoft-certifications](https://doctorlai.github.io/microsoft-certifications)
 
 ---
