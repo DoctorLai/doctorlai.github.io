@@ -10,7 +10,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **UK ILR**
 
-- **Version:** 22 November 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
+- **Version:** 24 November 2026 · **Latest:** [https://doctorlai.github.io](https://doctorlai.github.io)
 - **LinkedIn:** [https://www.linkedin.com/in/doctorlai](https://www.linkedin.com/in/doctorlai)
 - **Microsoft Research Profile:** [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 
@@ -201,6 +201,7 @@ Final Project: *Chinese Chess*
 - **[AZ-305 — Azure Solutions Architect [Expert]](https://learn.microsoft.com/en-us/users/zhihualai/credentials/175fea2345b64cbc)**
 - **[SC-100 — Cybersecurity Architect [Expert]](https://learn.microsoft.com/en-us/users/zhihualai/credentials/96fdec261f1b4304)**
 - **[AZ-400 — Azure DevOps Engineer [Expert]](https://learn.microsoft.com/en-us/users/zhihualai/credentials/510e848d686f15ce)**
+- **[AI-300 — Machine Learning Operations Engineer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/4fe7a610f45e5584)**
 - **[AB-100 — Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/users/zhihualai/credentials/54ea77333c601c1f)**
 - **[AI-102 — Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0)**
 - **[AI-103 — Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8ea8289f33cb583e)**
@@ -217,7 +218,7 @@ Final Project: *Chinese Chess*
 
 Additional Microsoft certifications include Azure, AI, security, GitHub, Power Platform, and data credentials.
 
-**Full list of 30 Microsoft certifications:**  
+**Full list of 31 Microsoft certifications:**  
 [https://doctorlai.github.io/microsoft-certifications](https://doctorlai.github.io/microsoft-certifications)
 
 ---
