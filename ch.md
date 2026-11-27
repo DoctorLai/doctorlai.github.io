@@ -23,7 +23,8 @@
 
 | 考试编号 | 领域 | 认证名称 | 证书链接 | 获得日期 |
 |----------|------|----------|----------|-----------|
-| AI-200 | 人工智能, 云     | **Azure AI 云开发助理 (Azure AI Cloud Developer Associate)**                                  | [2XFB6E-6277E6](https://learn.microsoft.com/en-us/users/zhihualai/credentials/cf63639c66f72d2b) | 2026年11月21日 |
+| AI-300 | M365, 云     | **M365 管理专家 (M365 Administrator Expert)**                                  | [3XB662-0B81CA](https://learn.microsoft.com/en-us/users/zhihualai/credentials/6d03220147720411) | 2026年11月27日 |
+| AI-200 | 人工智能, 云     | **机器学习运维工程师(助理级) (Machine Learning Operations Engineer Associate)**                                  | [AT4358-DC631E](https://learn.microsoft.com/en-us/users/zhihualai/credentials/4fe7a610f45e5584) | 2026年11月24日 |
 | AI-500 | 人工智能     | **多智能体AI解决方案专家 (Multi-Agent AI Solutions Expert)**                                  | [56C309-H88156](https://learn.microsoft.com/en-us/users/zhihualai/credentials/275a755486a5615c) | 2026年11月14日 |
 | DP-800 | 人工智能, 数据库     | **SQL AI 开发工程师(助理级) (SQL AI Developer Associate)**                                  | [53T946-FC71B9](https://learn.microsoft.com/en-us/users/zhihualai/credentials/1884008cab53d2e2) | 2026年9月24日 |
 | AI-103 | 人工智能      | **Azure AI 应用与智能体开发工程师 (Azure AI Apps and Agents Developer Associate)**                          | [015F1C-9CDD4B](https://learn.microsoft.com/en-us/users/zhihualai/credentials/8ea8289f33cb583e) | 2026年8月12日 |
